@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>BOOKWALKER - Select Pages Opening in the Future</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 2rem auto; max-width: 860px; padding: 0 1rem; color: #222; }
+  h1 { font-size: 1.4rem; }
+  .meta { color: #666; font-size: .85rem; margin-bottom: 1.5rem; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { text-align: left; padding: .6rem .7rem; border-bottom: 1px solid #e2e2e2; vertical-align: top; }
+  th { background: #f5f5f5; }
+  .empty { padding: 1rem; color: #888; }
+  a { color: #0b5cad; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+  <h1>Select Pages that will open in the future</h1>
+  <div class="meta" id="meta">Loading...</div>
+  <table>
+    <thead><tr><th>ID</th><th>Title</th><th>Campaign start</th><th>Campaign end</th></tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+
+<script>
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
+  ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fmt = (iso) => iso ? new Date(iso).toLocaleString("th-TH", { timeZone: "Asia/Bangkok" }) : "-";
+
+fetch("results.json", { cache: "no-store" })
+  .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then((data) => {
+    const now = new Date();
+    // Re-filter in the browser so pages that already opened drop off between scans.
+    const list = (data.results || []).filter((r) => r.campaignStartAt && new Date(r.campaignStartAt) > now);
+
+    document.getElementById("meta").innerHTML =
+      `Last change: ${esc(data.generatedAt || "-")} | Known pages: ${data.knownPages ?? 0} | ` +
+      `Total future: ${list.length} <a href="results.json">[JSON]</a>`;
+
+    document.getElementById("rows").innerHTML = list.length
+      ? list.map((r) => `<tr>
+          <td><a href="${esc(r.apiUrl)}">${r.id}</a></td>
+          <td><a href="${esc(r.url)}">${esc(r.title || "(untitled)")}</a></td>
+          <td>${esc(fmt(r.campaignStartAt))}</td>
+          <td>${esc(fmt(r.campaignEndAt))}</td>
+        </tr>`).join("")
+      : `<tr><td colspan="4" class="empty">No future select pages found.</td></tr>`;
+  })
+  .catch(() => {
+    document.getElementById("meta").textContent = "Could not load results.json (has the workflow run yet?).";
+  });
+</script>
+</body>
+</html>
