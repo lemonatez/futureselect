@@ -1,26 +1,12 @@
 {
-  "generatedAt": "2026-10-02T10:24:10.460Z",
+  "generatedAt": "2026-10-04T06:10:24.593Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 439,
-  "totalFuture": 16,
+  "totalFuture": 15,
   "results": [
-    {
-      "id": 719,
-      "title": "\"สอนรักฉบับคุณพ่อบ้าน\" ลดเลย 70%!",
-      "url": "https://bookwalker.in.th/select/719/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/719/",
-      "campaignStartAt": "2026-10-04T03:00:00.000Z",
-      "campaignEndAt": "2026-10-17T16:59:59.000Z",
-      "startAt": "2026-09-28T17:00:00.000Z",
-      "endAt": "2026-10-17T16:59:59.000Z",
-      "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1790752646073_Oshiete_Shitsuji_Banner 1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1790752646158_Oshiete_Shitsuji_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">โปรสำหรับสมาชิกใหม่ มังงะโชโจออกใหม่จากรักพิมพ์<br>\"สอนรักฉบับคุณพ่อบ้าน\" ลดโหด 70%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลดทันที 70% กรอกโค้ด BT70NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
-    },
     {
       "id": 662,
       "title": "PHOENIX BF Select Page",
