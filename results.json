@@ -1,12 +1,68 @@
 {
-  "generatedAt": "2026-10-04T06:10:24.593Z",
+  "generatedAt": "2026-10-05T09:25:52.498Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 439,
-  "totalFuture": 15,
+  "knownPages": 443,
+  "totalFuture": 19,
   "results": [
+    {
+      "id": 720,
+      "title": "จัดกันต่อกับมังงะฤดูใบไม้ร่วง ลดสูงสุด 40%",
+      "url": "https://bookwalker.in.th/select/720/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/720/",
+      "campaignStartAt": "2026-10-14T03:00:00.000Z",
+      "campaignEndAt": "2026-11-01T16:59:59.000Z",
+      "startAt": "2026-10-04T17:00:00.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
+      "categoryCsv": "manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">ลดต่อ ไม่รอแล้วนะ !! มังงะจากอนิเมะฤดูใบไม้ร่วง ลดสูงสุด 40%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 40% กรอกโค้ด FL40</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 20% กรอกโค้ด FL20</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 14 กันยายน 2569</em></strong></p>"
+    },
+    {
+      "id": 721,
+      "title": "ลด 35% มังงะพระเอกหล่อบอกต่อด้วย !!",
+      "url": "https://bookwalker.in.th/select/721/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/721/",
+      "campaignStartAt": "2026-10-18T03:00:00.000Z",
+      "campaignEndAt": "2026-10-31T16:59:59.000Z",
+      "startAt": "2026-10-04T17:00:00.000Z",
+      "endAt": "2026-10-31T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">หล่อ หล่อ อย่างนี้แล้วใครจะทนไหว !?<br>มังงะพระเอกสุดฮอต ทั้งโชเน็น กีฬา มาครบ !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด HOT35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 18 กันยายน 2569</em></strong></p>"
+    },
+    {
+      "id": 722,
+      "title": "หิวมั้ย ? รวมอีบุ๊กสุดอร่อยให้ลองชิม พร้อมส่วนลด 35%",
+      "url": "https://bookwalker.in.th/select/722/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/722/",
+      "campaignStartAt": "2026-10-18T03:00:00.000Z",
+      "campaignEndAt": "2026-10-31T16:59:59.000Z",
+      "startAt": "2026-10-04T17:00:00.000Z",
+      "endAt": "2026-10-31T16:59:59.000Z",
+      "categoryCsv": "other,manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">ไม่ว่าจะเจอกับปัญหาอะไร อย่าปล่อยให้ท้องหิว !<br>ทั้งมังงะ ไลท์โนเวล หรือวรรณกรรมแปลที่มีอาหารอยู่ในเรื่องราว</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด YUM35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 18 กันยายน 2569</em></strong></p>"
+    },
+    {
+      "id": 723,
+      "title": "ลด 35% มังงะคู่รักสุดหวาน♡อ่านแล้วฟิน ",
+      "url": "https://bookwalker.in.th/select/723/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/723/",
+      "campaignStartAt": "2026-10-18T03:00:00.000Z",
+      "campaignEndAt": "2026-10-31T16:59:59.000Z",
+      "startAt": "2026-10-04T17:00:00.000Z",
+      "endAt": "2026-10-31T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">เติมหวานกันให้สดชื่น มังงะของชีวิตคู่ชวนให้ใจเต้น ตึกตัก ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด LV35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 21 กันยายน 2569</em></strong></p>"
+    },
     {
       "id": 662,
       "title": "PHOENIX BF Select Page",
@@ -143,9 +199,9 @@
       "startAt": "2026-09-13T17:00:00.000Z",
       "endAt": "2026-11-02T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": null,
-      "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">อีบุ๊กจากรักพิมพ์ ลดสูงสุด 70% สำหรับสมาชิกสมัครใหม่ BOOK☆WALKER</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สูงสุด 300 บาท กรอกโค้ด ...</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ....</p></li></ul>"
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167857703_(H)_BookEx_Banner 1390x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167857807_(H)_BookEx_Banner 1290x900.png",
+      "description": "<p style=\"margin-left: 0px;\">อีบุ๊กจากรักพิมพ์ ลดสูงสุด 70% สำหรับสมาชิกสมัครใหม่ BOOK☆WALKER</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สูงสุด 300 บาท กรอกโค้ด ... ใช้ได้ 1 ครั้งต่อบัญชี</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ....... ไม่จำกัดจำนวนครั้ง</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 685,
@@ -185,8 +241,8 @@
       "startAt": "2026-09-13T17:00:00.000Z",
       "endAt": "2026-11-02T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167903592_(L)_BookEx_Banner 1390x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167903722_(L)_BookEx_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">มังงะอ่านฟรี 6 เล่มจากสำนักพิมพ์ First Page Pro. พร้อมโปรสำหรับสมาชิกใหม่</p><p style=\"margin-left: 0px;\">สมาชิกใหม่ซื้ออีบุ๊กจาก First Page Pro. รับส่วนลดจัดหนัก</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 70% ไม่มีขั้นต่ำ สูงสุด 150 บาท กรอกโค้ด ...</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
@@ -199,8 +255,8 @@
       "startAt": "2026-09-13T17:00:00.000Z",
       "endAt": "2026-11-02T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167926234_(M)_BookEx_Banner 1390x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167926355_(M)_BookEx_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">มังงะอ่านฟรี 6 เล่มจากสำนักพิมพ์ Luckpim พร้อมโปรสำหรับสมาชิกใหม่</p><p style=\"margin-left: 0px;\">อีบุ๊กจากรักพิมพ์ ลดสูงสุด 70% สำหรับสมาชิกสมัครใหม่ BOOK☆WALKER</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สูงสุด 300 บาท กรอกโค้ด ...</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ....</p></li></ul>"
     },
     {
@@ -213,8 +269,8 @@
       "startAt": "2026-09-13T17:00:00.000Z",
       "endAt": "2026-11-02T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167949816_(O)_BookEx_Banner 1390x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167949899_(O)_BookEx_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">โปรสำหรับงานหนังสือเพื่อสมาชิกใหม่โดยเฉพาะ<br>อีบุ๊กทุกเล่ม ลด 50%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 50% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด...</p></li></ul>"
     }
   ]
