@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-06T07:09:27.730Z",
+  "generatedAt": "2026-10-06T14:21:46.341Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 443,
-  "totalFuture": 19,
+  "knownPages": 444,
+  "totalFuture": 20,
   "results": [
     {
       "id": 720,
@@ -50,18 +50,18 @@
       "description": "<p style=\"margin-left: 0px;\">ไม่ว่าจะเจอกับปัญหาอะไร อย่าปล่อยให้ท้องหิว !<br>ทั้งมังงะ ไลท์โนเวล หรือวรรณกรรมแปลที่มีอาหารอยู่ในเรื่องราว</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด YUM35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 18 กันยายน 2569</em></strong></p>"
     },
     {
-      "id": 723,
-      "title": "ลด 35% มังงะคู่รักสุดหวาน♡อ่านแล้วฟิน ",
-      "url": "https://bookwalker.in.th/select/723/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/723/",
-      "campaignStartAt": "2026-10-18T03:00:00.000Z",
-      "campaignEndAt": "2026-10-31T16:59:59.000Z",
-      "startAt": "2026-10-04T17:00:00.000Z",
-      "endAt": "2026-10-31T16:59:59.000Z",
+      "id": 724,
+      "title": "มังงะคลาสสิคชวนให้คิดถึง ลดสูงสุด 40%",
+      "url": "https://bookwalker.in.th/select/724/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/724/",
+      "campaignStartAt": "2026-10-18T17:00:00.000Z",
+      "campaignEndAt": "2026-11-01T16:59:59.000Z",
+      "startAt": "2026-10-05T17:00:00.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "manga",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">เติมหวานกันให้สดชื่น มังงะของชีวิตคู่ชวนให้ใจเต้น ตึกตัก ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด LV35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 21 กันยายน 2569</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">มังงะเรื่องในตำนาน จัดกันมาลดทั้งแบบเล่มเดี่ยวและครบชุด !</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% สำหรับอีบุ๊ก \"เล่มเดี่ยว\" กรอกโค้ด CS30</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% สำหรับอีบุ๊ก \"ยกชุด\" กรอกโค้ด CS40</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 19 กันยายน 2569</em></strong></p>"
     },
     {
       "id": 662,
@@ -104,6 +104,20 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\"></p>"
+    },
+    {
+      "id": 723,
+      "title": "ลด 35% มังงะคู่รักสุดหวาน♡อ่านแล้วฟิน ",
+      "url": "https://bookwalker.in.th/select/723/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/723/",
+      "campaignStartAt": "2026-10-21T03:00:00.000Z",
+      "campaignEndAt": "2026-11-03T16:59:59.000Z",
+      "startAt": "2026-10-04T17:00:00.000Z",
+      "endAt": "2026-11-03T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">เติมหวานกันให้สดชื่น มังงะของชีวิตคู่ชวนให้ใจเต้น ตึกตัก ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด LV35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 21 กันยายน 2569</em></strong></p>"
     },
     {
       "id": 684,
