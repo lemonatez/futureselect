@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-06T14:21:46.341Z",
+  "generatedAt": "2026-10-07T04:07:19.746Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 444,
-  "totalFuture": 20,
+  "knownPages": 445,
+  "totalFuture": 21,
   "results": [
     {
       "id": 720,
@@ -286,6 +286,20 @@
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167949816_(O)_BookEx_Banner 1390x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167949899_(O)_BookEx_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">โปรสำหรับงานหนังสือเพื่อสมาชิกใหม่โดยเฉพาะ<br>อีบุ๊กทุกเล่ม ลด 50%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 50% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด...</p></li></ul>"
+    },
+    {
+      "id": 725,
+      "title": "โปรปังจาก BOOK☆WALKER กลับมาพร้อมงานหนังสือ ทั้งลดทั้งแจกหนัก !!",
+      "url": "https://bookwalker.in.th/select/725/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/725/",
+      "campaignStartAt": "2026-10-23T03:00:00.000Z",
+      "campaignEndAt": "2026-11-01T16:59:59.000Z",
+      "startAt": "2026-10-06T17:00:00.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
+      "categoryCsv": "other,manga,light_novel,art_book",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\"><strong>BOOK☆WALKER จัดโปรแรงฉลองงานหนังสือ ลดยาว ๆ พร้อมโปร 2 เฟส</strong></p><h3 style=\"margin-left: 0px;\">▷ เฟส 1: ส่วนลดสูงสุด 40%* <em>ตั้งแต่ 23-26 ต.ค. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% ขั้นต่ำ 600 บาท กรอกโค้ด BW40BE</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด BW30BE</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 9 ตุลาคม 2569</p><h3 style=\"margin-left: 0px;\">▷ เฟส 2: พอยต์คืนแบบจัดเต็ม สูงสุด 55%* <em>ตั้งแต่ 27 ต.ค. - 1 พ.ย. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลูกค้ารับพอยต์คืนทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พร้อมรับพอยต์คืนสูงสุด 25% หลังจบงานฯ</p></li></ul><p style=\"margin-left: 0px;\">เพียงมียอดซื้อสะสมตลอดช่วงระยะเวลากิจกรรมตามที่บริษัทฯกำหนด</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 10% สำหรับยอดซื้อรวมตั้งแต่ 350 – 2,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 15% สำหรับยอดซื้อรวมตั้งแต่ 3,000 – 5,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 25% สำหรับยอดซื้อรวมตั้งแต่ 6,000 บาท ขึ้นไป</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 13 ตุลาคม 2569<br>※ จำกัดการสั่งซื้อบนเว็ปไซต์เท่านั้น<br>※ <strong>พอยต์เพิ่มจะได้รับคืนภายในวันที่ 10 พฤศจิกายน 2569</strong></p>"
     }
   ]
 }
