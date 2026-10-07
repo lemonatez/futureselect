@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-07T04:07:19.746Z",
+  "generatedAt": "2026-10-07T11:14:39.904Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 445,
-  "totalFuture": 21,
+  "knownPages": 446,
+  "totalFuture": 22,
   "results": [
     {
       "id": 720,
@@ -125,13 +125,13 @@
       "url": "https://bookwalker.in.th/select/684/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/684/",
       "campaignStartAt": "2026-10-22T17:00:00.000Z",
-      "campaignEndAt": "2026-11-01T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T17:00:00.000Z",
       "startAt": "2026-09-13T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254507849_(I)_BookEx_Banner 1390x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254507943_(I)_BookEx_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">รวมอีบุ๊ก BL จากหลากหลายสำนักพิมพ์<br>ขนกันมาลดเพื่อสมาชิกใหม่ BOOK☆WALKER</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% สูงสุด 300 บาท กรอกโค้ด BWY60NW</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ....</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ คูปองส่วนลด 30% ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่</em></strong></p><p style=\"margin-left: 0px;\"></p>"
+      "description": "<p style=\"margin-left: 0px;\">รวมอีบุ๊ก BL จากหลากหลายสำนักพิมพ์<br>ขนกันมาลดเพื่อสมาชิกใหม่ BOOK☆WALKER</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% สูงสุด 300 บาท กรอกโค้ด BWY60NW</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด BWY30NW</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ คูปองส่วนลด 30% ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 9 ตุลาคม 2569</em></strong><br><strong><em>※ คูปองใช้ได้กับสำนักพิมพ์ดังนี้: First Love Pro., IrisBook, Bongkoch, Jamsai และ Zenshu (ก่อน 1 พ.ค. 69)</em></strong><em>&nbsp;</em></p><p style=\"margin-left: 0px;\"></p>"
     },
     {
       "id": 678,
@@ -139,13 +139,13 @@
       "url": "https://bookwalker.in.th/select/678/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/678/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T17:00:00.000Z",
       "startAt": "2026-09-06T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254382504_(C)_BookEx_Banner 1390x440 (1).png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254382628_(C)_BookEx_Banner 1290x900 (1).png",
-      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก Phoenix NEXT รับส่วนลดสองต่อ</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 70% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด PN70NW ใช้ได้ 1 ครั้งต่อบัญชี</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ....... ไม่จำกัดจำนวนครั้ง</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก Phoenix NEXT รับส่วนลดสองต่อ</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 70% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด PN70NW ใช้ได้ 1 ครั้งต่อบัญชี</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด PN30NW ไม่จำกัดจำนวนครั้ง</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 679,
@@ -153,13 +153,13 @@
       "url": "https://bookwalker.in.th/select/679/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/679/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T17:00:00.000Z",
       "startAt": "2026-09-13T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254334692_(D)_BookEx_Banner 1390x440 (1).png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254334820_(D)_BookEx_Banner 1290x900 (1).png",
-      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก Phoenix NEXT รับส่วนลดสองต่อ</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 70% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด PN70NW ใช้ได้ 1 ครั้งต่อบัญชี</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ....... ไม่จำกัดจำนวนครั้ง</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก Phoenix NEXT รับส่วนลดสองต่อ</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 70% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด PN70NW ใช้ได้ 1 ครั้งต่อบัญชี</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด PN30NW ไม่จำกัดจำนวนครั้ง</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ คูปองส่วนลด 30% ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่  9 ตุลาคม 2569</em></strong></p>"
     },
     {
       "id": 680,
@@ -167,13 +167,13 @@
       "url": "https://bookwalker.in.th/select/680/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/680/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T17:00:00.000Z",
       "startAt": "2026-09-13T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254430326_(E)_BookEx_Banner 1390x440 (1).png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254430450_(E)_BookEx_Banner 1290x900 (1).png",
-      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก TamaStudio รับส่วนลดสุดปัง</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 50% ไม่มีขั้นต่ำ สูงสุด 100 บาท กรอกโค้ด ...</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก TamaStudio รับส่วนลดสุดปัง</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 50% ไม่มีขั้นต่ำ สูงสุด 100 บาท กรอกโค้ด TM50NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 681,
@@ -181,13 +181,13 @@
       "url": "https://bookwalker.in.th/select/681/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/681/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T17:00:00.000Z",
       "startAt": "2026-09-13T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254307070_(F)_BookEx_Banner 1390x440 (1).png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254307175_(F)_BookEx_Banner 1290x900 (1).png",
-      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก First Page Pro. รับส่วนลดจัดหนัก</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 70% ไม่มีขั้นต่ำ สูงสุด 150 บาท กรอกโค้ด ...</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p><p style=\"margin-left: 0px;\"></p>"
+      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก First Page Pro. รับส่วนลดจัดหนัก</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 70% ไม่มีขั้นต่ำ สูงสุด 150 บาท กรอกโค้ด FPP70NW</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p><p style=\"margin-left: 0px;\"></p>"
     },
     {
       "id": 682,
@@ -195,13 +195,13 @@
       "url": "https://bookwalker.in.th/select/682/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/682/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T17:00:00.000Z",
       "startAt": "2026-09-13T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254275406_(G)_BookEx_Banner 1390x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254275537_(G)_BookEx_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก First Page Pro. รับส่วนลดจัดหนัก</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 70% ไม่มีขั้นต่ำ สูงสุด 150 บาท กรอกโค้ด ...</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p><p style=\"margin-left: 0px;\"></p>"
+      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก First Page Pro. รับส่วนลดจัดหนัก</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 70% ไม่มีขั้นต่ำ สูงสุด 150 บาท กรอกโค้ด FPP70NW</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p><p style=\"margin-left: 0px;\"></p>"
     },
     {
       "id": 683,
@@ -209,13 +209,13 @@
       "url": "https://bookwalker.in.th/select/683/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/683/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T17:00:00.000Z",
       "startAt": "2026-09-13T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167857703_(H)_BookEx_Banner 1390x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167857807_(H)_BookEx_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">อีบุ๊กจากรักพิมพ์ ลดสูงสุด 70% สำหรับสมาชิกสมัครใหม่ BOOK☆WALKER</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สูงสุด 300 บาท กรอกโค้ด ... ใช้ได้ 1 ครั้งต่อบัญชี</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ....... ไม่จำกัดจำนวนครั้ง</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">อีบุ๊กจากรักพิมพ์ ลดสูงสุด 70% สำหรับสมาชิกสมัครใหม่ BOOK☆WALKER</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สูงสุด 300 บาท กรอกโค้ด LP70NW ใช้ได้ 1 ครั้งต่อบัญชี</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด LP30NW ไม่จำกัดจำนวนครั้ง</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ คูปองส่วนลด 30% ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 9 ตุลาคม 2569</em></strong></p>"
     },
     {
       "id": 685,
@@ -223,13 +223,13 @@
       "url": "https://bookwalker.in.th/select/685/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/685/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T17:00:00.000Z",
       "startAt": "2026-09-14T03:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1790739248307_(J)_BookEx_Banner 1390x440.jpg",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1790739248388_(J)_BookEx_Banner 1290x900.jpg",
-      "description": "<p style=\"margin-left: 0px;\"><strong>มังงะจากอนิเมะฤดูใบไม้ร่วง ลดสูงสุด 70%</strong><br><strong>นักอ่านหน้าใหม่ รับส่วนลด 2 ต่อ</strong></p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 70% กรอกโค้ด ...</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 30% กรอกโค้ด ...</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ คูปองส่วนลด ใช้ได้กับสำนักพิมพ์ดังนี้ Phoenix Next, Comix Next, First Page Pro., Luckpim, Gift Book และ Vibulkij</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\"><strong>มังงะจากอนิเมะฤดูใบไม้ร่วง ลดสูงสุด 70%</strong><br><strong>นักอ่านหน้าใหม่ รับส่วนลด 2 ต่อ</strong></p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 70% กรอกโค้ด FL70NW</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 30% กรอกโค้ด FL30NW</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ คูปองส่วนลด ใช้ได้กับสำนักพิมพ์ดังนี้ Phoenix Next, Comix Next, First Page Pro., Luckpim, Gift Book และ Vibulkij</em></strong></p>"
     },
     {
       "id": 686,
@@ -237,13 +237,13 @@
       "url": "https://bookwalker.in.th/select/686/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/686/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T17:00:00.000Z",
       "startAt": "2026-09-13T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254551332_(K)_BookEx_Banner 1390x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254551440_(K)_BookEx_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">มังงะอ่านฟรี 6 เล่มจากสำนักพิมพ์ Phoenix NEXT พร้อมโปรสำหรับมังงะฤดูใบไม้ร่วง<br><br>สำหรับนักอ่านหน้าใหม่ มังงะฤดูใบไม้ร่วง รับส่วนลด 2 ต่อ</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 70% กรอกโค้ด ...</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 30% กรอกโค้ด ...</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ คูปองส่วนลด ใช้ได้กับสำนักพิมพ์ดังนี้ Phoenix Next, Comix Next, First Page Pro., Luckpim, Gift Book และ Vibulkij</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">มังงะอ่านฟรี 6 เล่มจากสำนักพิมพ์ Phoenix NEXT พร้อมโปรสำหรับมังงะฤดูใบไม้ร่วง<br><br>สำหรับนักอ่านหน้าใหม่ มังงะฤดูใบไม้ร่วง รับส่วนลด 2 ต่อ</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 70% กรอกโค้ด กรอกโค้ด FL70NW</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 30% กรอกโค้ด FL30NW</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ คูปองส่วนลด ใช้ได้กับสำนักพิมพ์ดังนี้ Phoenix Next, Comix Next, First Page Pro., Luckpim, Gift Book และ Vibulkij</em></strong></p>"
     },
     {
       "id": 687,
@@ -251,13 +251,13 @@
       "url": "https://bookwalker.in.th/select/687/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/687/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T17:00:00.000Z",
       "startAt": "2026-09-13T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167903592_(L)_BookEx_Banner 1390x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254861283_(L)_BookEx_Banner 1290x900 (1).png",
-      "description": "<p style=\"margin-left: 0px;\">มังงะอ่านฟรี 6 เล่มจากสำนักพิมพ์ First Page Pro. พร้อมโปรสำหรับสมาชิกใหม่</p><p style=\"margin-left: 0px;\">สมาชิกใหม่ซื้ออีบุ๊กจาก First Page Pro. รับส่วนลดจัดหนัก</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 70% ไม่มีขั้นต่ำ สูงสุด 150 บาท กรอกโค้ด ...</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">มังงะอ่านฟรี 6 เล่มจากสำนักพิมพ์ First Page Pro. พร้อมโปรสำหรับสมาชิกใหม่</p><p style=\"margin-left: 0px;\">สมาชิกใหม่ซื้ออีบุ๊กจาก First Page Pro. รับส่วนลดจัดหนัก</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 70% ไม่มีขั้นต่ำ สูงสุด 150 บาท กรอกโค้ด FPP70NW</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 688,
@@ -265,13 +265,13 @@
       "url": "https://bookwalker.in.th/select/688/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/688/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T17:00:00.000Z",
       "startAt": "2026-09-13T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167926234_(M)_BookEx_Banner 1390x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167926355_(M)_BookEx_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">มังงะอ่านฟรี 6 เล่มจากสำนักพิมพ์ Luckpim พร้อมโปรสำหรับสมาชิกใหม่</p><p style=\"margin-left: 0px;\">อีบุ๊กจากรักพิมพ์ ลดสูงสุด 70% สำหรับสมาชิกสมัครใหม่ BOOK☆WALKER</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สูงสุด 300 บาท กรอกโค้ด ...</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ....</p></li></ul>"
+      "description": "<p style=\"margin-left: 0px;\">มังงะอ่านฟรี 6 เล่มจากสำนักพิมพ์ Luckpim พร้อมโปรสำหรับสมาชิกใหม่</p><p style=\"margin-left: 0px;\">อีบุ๊กจากรักพิมพ์ ลดสูงสุด 70% สำหรับสมาชิกสมัครใหม่ BOOK☆WALKER</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สูงสุด 300 บาท กรอกโค้ด LP70NW ใช้ได้ 1 ครั้งต่อบัญชี</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด LP30NW ไม่จำกัดจำนวนครั้ง</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ คูปองส่วนลด 30% ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 9 ตุลาคม 2569</em></strong></p>"
     },
     {
       "id": 689,
@@ -292,6 +292,20 @@
       "title": "โปรปังจาก BOOK☆WALKER กลับมาพร้อมงานหนังสือ ทั้งลดทั้งแจกหนัก !!",
       "url": "https://bookwalker.in.th/select/725/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/725/",
+      "campaignStartAt": "2026-10-23T03:00:00.000Z",
+      "campaignEndAt": "2026-11-01T16:59:59.000Z",
+      "startAt": "2026-10-06T17:00:00.000Z",
+      "endAt": "2026-11-01T16:59:59.000Z",
+      "categoryCsv": "other,manga,light_novel,art_book",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\"><strong>BOOK☆WALKER จัดโปรแรงฉลองงานหนังสือ ลดยาว ๆ พร้อมโปร 2 เฟส</strong></p><h3 style=\"margin-left: 0px;\">▷ เฟส 1: ส่วนลดสูงสุด 40%* <em>ตั้งแต่ 23-26 ต.ค. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% ขั้นต่ำ 600 บาท กรอกโค้ด BW40BE</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด BW30BE</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 9 ตุลาคม 2569</p><h3 style=\"margin-left: 0px;\">▷ เฟส 2: พอยต์คืนแบบจัดเต็ม สูงสุด 55%* <em>ตั้งแต่ 27 ต.ค. - 1 พ.ย. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลูกค้ารับพอยต์คืนทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พร้อมรับพอยต์คืนสูงสุด 25% หลังจบงานฯ</p></li></ul><p style=\"margin-left: 0px;\">เพียงมียอดซื้อสะสมตลอดช่วงระยะเวลากิจกรรมตามที่บริษัทฯกำหนด</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 10% สำหรับยอดซื้อรวมตั้งแต่ 350 – 2,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 15% สำหรับยอดซื้อรวมตั้งแต่ 3,000 – 5,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 25% สำหรับยอดซื้อรวมตั้งแต่ 6,000 บาท ขึ้นไป</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 13 ตุลาคม 2569<br>※ จำกัดการสั่งซื้อบนเว็ปไซต์เท่านั้น<br>※ <strong>พอยต์เพิ่มจะได้รับคืนภายในวันที่ 10 พฤศจิกายน 2569</strong></p>"
+    },
+    {
+      "id": 726,
+      "title": "โปรปังจาก BOOK☆WALKER กลับมาพร้อมงานหนังสือ ทั้งลดทั้งแจกหนัก !!",
+      "url": "https://bookwalker.in.th/select/726/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/726/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
       "campaignEndAt": "2026-11-01T16:59:59.000Z",
       "startAt": "2026-10-06T17:00:00.000Z",
