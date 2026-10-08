@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T09:21:00.335Z",
+  "generatedAt": "2026-10-08T16:45:45.419Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
@@ -17,8 +17,8 @@
       "startAt": "2026-10-04T17:00:00.000Z",
       "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "manga,light_novel",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791455899501_Fall_Anime_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791455899610_Fall_Anime_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">ลดต่อ ไม่รอแล้วนะ !! มังงะจากอนิเมะฤดูใบไม้ร่วง ลดสูงสุด 40%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 40% กรอกโค้ด FL40</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 20% กรอกโค้ด FL20</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 14 กันยายน 2569</em></strong></p>"
     },
     {
@@ -317,7 +317,7 @@
     },
     {
       "id": 725,
-      "title": "โปรปังจาก BOOK☆WALKER กลับมาพร้อมงานหนังสือ ทั้งลดทั้งแจกหนัก !!",
+      "title": "โปรงานหนังสือออนไลน์ที่ BOOK☆WALKER ทั้งลดทั้งแจกหนัก !!",
       "url": "https://bookwalker.in.th/select/725/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/725/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
@@ -331,7 +331,7 @@
     },
     {
       "id": 726,
-      "title": "โปรปังจาก BOOK☆WALKER กลับมาพร้อมงานหนังสือ ทั้งลดทั้งแจกหนัก !!",
+      "title": "โปรงานหนังสือออนไลน์ที่ BOOK☆WALKER ทั้งลดทั้งแจกหนัก !!",
       "url": "https://bookwalker.in.th/select/726/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/726/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
