@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-07T11:14:39.904Z",
+  "generatedAt": "2026-10-08T09:21:00.335Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 446,
-  "totalFuture": 22,
+  "knownPages": 448,
+  "totalFuture": 24,
   "results": [
     {
       "id": 720,
@@ -20,6 +20,34 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\">ลดต่อ ไม่รอแล้วนะ !! มังงะจากอนิเมะฤดูใบไม้ร่วง ลดสูงสุด 40%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 40% กรอกโค้ด FL40</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 20% กรอกโค้ด FL20</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 14 กันยายน 2569</em></strong></p>"
+    },
+    {
+      "id": 727,
+      "title": "Flash Sales !! มังงะขายดีติดอันดับ 3 วันเท่านั้น",
+      "url": "https://bookwalker.in.th/select/727/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/727/",
+      "campaignStartAt": "2026-10-15T03:00:00.000Z",
+      "campaignEndAt": "2026-10-17T16:59:59.000Z",
+      "startAt": "2026-10-07T17:00:00.000Z",
+      "endAt": "2026-10-17T16:59:59.000Z",
+      "categoryCsv": "manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">พี่บุ๊กรวมอีบุ๊กขายดีมาลดกันสูงสุด 30% แบบไม่ต้องกรอกส่วนลด !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 10%</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 ตุลาคม 2569</em></strong><br>※<strong><em>อีบุ๊กจากโปรโมชัน Fall Anime ไม่ร่วมรายการ</em></strong><br>※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+    },
+    {
+      "id": 728,
+      "title": "Flash Sales !! มังงะขายดีติดอันดับ 3 วันเท่านั้น",
+      "url": "https://bookwalker.in.th/select/728/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/728/",
+      "campaignStartAt": "2026-10-15T03:00:00.000Z",
+      "campaignEndAt": "2026-10-17T16:59:59.000Z",
+      "startAt": "2026-10-07T17:00:00.000Z",
+      "endAt": "2026-10-17T16:59:59.000Z",
+      "categoryCsv": "manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">พี่บุ๊กรวมอีบุ๊กขายดีมาลดกันสูงสุด 30% แบบไม่ต้องกรอกส่วนลด !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 10%</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 ตุลาคม 2569</em></strong><br>※<strong><em>อีบุ๊กจากโปรโมชัน Fall Anime ไม่ร่วมรายการ</em></strong><br>※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 721,
