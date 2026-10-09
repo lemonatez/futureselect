@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-08T16:45:45.419Z",
+  "generatedAt": "2026-10-09T08:26:18.357Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 448,
-  "totalFuture": 24,
+  "knownPages": 449,
+  "totalFuture": 25,
   "results": [
     {
       "id": 720,
@@ -31,8 +31,8 @@
       "startAt": "2026-10-07T17:00:00.000Z",
       "endAt": "2026-10-17T16:59:59.000Z",
       "categoryCsv": "manga,light_novel",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791517592961_Top50Manga_Banner_1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791517593101_Top50Manga_Banner_1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">พี่บุ๊กรวมอีบุ๊กขายดีมาลดกันสูงสุด 30% แบบไม่ต้องกรอกส่วนลด !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 10%</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 ตุลาคม 2569</em></strong><br>※<strong><em>อีบุ๊กจากโปรโมชัน Fall Anime ไม่ร่วมรายการ</em></strong><br>※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
@@ -45,8 +45,8 @@
       "startAt": "2026-10-07T17:00:00.000Z",
       "endAt": "2026-10-17T16:59:59.000Z",
       "categoryCsv": "manga,light_novel",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791517602239_Top50Manga_Banner_1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791517602343_Top50Manga_Banner_1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">พี่บุ๊กรวมอีบุ๊กขายดีมาลดกันสูงสุด 30% แบบไม่ต้องกรอกส่วนลด !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 10%</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 ตุลาคม 2569</em></strong><br>※<strong><em>อีบุ๊กจากโปรโมชัน Fall Anime ไม่ร่วมรายการ</em></strong><br>※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
@@ -59,8 +59,8 @@
       "startAt": "2026-10-04T17:00:00.000Z",
       "endAt": "2026-10-31T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791533887748_Handsome_Banner_1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791533887866_Handsome_Banner_1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">หล่อ หล่อ อย่างนี้แล้วใครจะทนไหว !?<br>มังงะพระเอกสุดฮอต ทั้งโชเน็น กีฬา มาครบ !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด HOT35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 18 กันยายน 2569</em></strong></p>"
     },
     {
@@ -313,7 +313,7 @@
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167949816_(O)_BookEx_Banner 1390x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167949899_(O)_BookEx_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">โปรสำหรับงานหนังสือเพื่อสมาชิกใหม่โดยเฉพาะ<br>อีบุ๊กทุกเล่ม ลด 50%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 50% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด...</p></li></ul>"
+      "description": "<p style=\"margin-left: 0px;\">โปรสำหรับงานหนังสือเพื่อสมาชิกใหม่โดยเฉพาะ<br>อีบุ๊กทุกเล่ม ลด 50%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 50% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด BW50BE</p></li></ul>"
     },
     {
       "id": 725,
@@ -327,7 +327,7 @@
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\"><strong>BOOK☆WALKER จัดโปรแรงฉลองงานหนังสือ ลดยาว ๆ พร้อมโปร 2 เฟส</strong></p><h3 style=\"margin-left: 0px;\">▷ เฟส 1: ส่วนลดสูงสุด 40%* <em>ตั้งแต่ 23-26 ต.ค. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% ขั้นต่ำ 600 บาท กรอกโค้ด BW40BE</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด BW30BE</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 9 ตุลาคม 2569</p><h3 style=\"margin-left: 0px;\">▷ เฟส 2: พอยต์คืนแบบจัดเต็ม สูงสุด 55%* <em>ตั้งแต่ 27 ต.ค. - 1 พ.ย. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลูกค้ารับพอยต์คืนทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พร้อมรับพอยต์คืนสูงสุด 25% หลังจบงานฯ</p></li></ul><p style=\"margin-left: 0px;\">เพียงมียอดซื้อสะสมตลอดช่วงระยะเวลากิจกรรมตามที่บริษัทฯกำหนด</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 10% สำหรับยอดซื้อรวมตั้งแต่ 350 – 2,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 15% สำหรับยอดซื้อรวมตั้งแต่ 3,000 – 5,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 25% สำหรับยอดซื้อรวมตั้งแต่ 6,000 บาท ขึ้นไป</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 13 ตุลาคม 2569<br>※ จำกัดการสั่งซื้อบนเว็ปไซต์เท่านั้น<br>※ <strong>พอยต์เพิ่มจะได้รับคืนภายในวันที่ 10 พฤศจิกายน 2569</strong></p>"
+      "description": "<p style=\"margin-left: 0px;\"><strong>BOOK☆WALKER จัดโปรแรงฉลองงานหนังสือ ลดยาว ๆ พร้อมโปร 2 เฟส</strong></p><h3 style=\"margin-left: 0px;\">▷ เฟส 1: ส่วนลดสูงสุด 40%* <em>ตั้งแต่ 23-26 ต.ค. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% ขั้นต่ำ 600 บาท กรอกโค้ด BW40BE</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด BW30BE</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 9 ตุลาคม 2569</p><h3 style=\"margin-left: 0px;\">▷ เฟส 2: พอยต์คืนแบบจัดเต็ม สูงสุด 55%* <em>ตั้งแต่ 27 ต.ค. - 1 พ.ย. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลูกค้ารับพอยต์คืนทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พร้อมรับพอยต์คืนสูงสุด 25% หลังจบงานฯ</p></li></ul><p style=\"margin-left: 0px;\">เพียงมียอดซื้อสะสมตลอดช่วงระยะเวลากิจกรรมตามที่บริษัทฯกำหนด</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 10% สำหรับยอดซื้อรวมตั้งแต่ 350 – 2,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 15% สำหรับยอดซื้อรวมตั้งแต่ 3,000 – 5,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 25% สำหรับยอดซื้อรวมตั้งแต่ 6,000 บาท ขึ้นไป</p></li></ul><p style=\"margin-left: 0px;\"><strong>※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 13 ตุลาคม 2569<br>※ จำกัดการสั่งซื้อบนเว็ปไซต์เท่านั้น<br>※ พอยต์เพิ่มจะได้รับคืนภายในวันที่ 10 พฤศจิกายน 2569</strong></p>"
     },
     {
       "id": 726,
@@ -341,7 +341,21 @@
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\"><strong>BOOK☆WALKER จัดโปรแรงฉลองงานหนังสือ ลดยาว ๆ พร้อมโปร 2 เฟส</strong></p><h3 style=\"margin-left: 0px;\">▷ เฟส 1: ส่วนลดสูงสุด 40%* <em>ตั้งแต่ 23-26 ต.ค. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% ขั้นต่ำ 600 บาท กรอกโค้ด BW40BE</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด BW30BE</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 9 ตุลาคม 2569</p><h3 style=\"margin-left: 0px;\">▷ เฟส 2: พอยต์คืนแบบจัดเต็ม สูงสุด 55%* <em>ตั้งแต่ 27 ต.ค. - 1 พ.ย. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลูกค้ารับพอยต์คืนทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พร้อมรับพอยต์คืนสูงสุด 25% หลังจบงานฯ</p></li></ul><p style=\"margin-left: 0px;\">เพียงมียอดซื้อสะสมตลอดช่วงระยะเวลากิจกรรมตามที่บริษัทฯกำหนด</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 10% สำหรับยอดซื้อรวมตั้งแต่ 350 – 2,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 15% สำหรับยอดซื้อรวมตั้งแต่ 3,000 – 5,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 25% สำหรับยอดซื้อรวมตั้งแต่ 6,000 บาท ขึ้นไป</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 13 ตุลาคม 2569<br>※ จำกัดการสั่งซื้อบนเว็ปไซต์เท่านั้น<br>※ <strong>พอยต์เพิ่มจะได้รับคืนภายในวันที่ 10 พฤศจิกายน 2569</strong></p>"
+      "description": "<p style=\"margin-left: 0px;\"><strong>BOOK☆WALKER จัดโปรแรงฉลองงานหนังสือ ลดยาว ๆ พร้อมโปร 2 เฟส</strong></p><h3 style=\"margin-left: 0px;\">▷ เฟส 1: ส่วนลดสูงสุด 40%* <em>ตั้งแต่ 23-26 ต.ค. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% ขั้นต่ำ 600 บาท กรอกโค้ด BW40BE</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด BW30BE</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 9 ตุลาคม 2569</p><h3 style=\"margin-left: 0px;\">▷ เฟส 2: พอยต์คืนแบบจัดเต็ม สูงสุด 55%* <em>ตั้งแต่ 27 ต.ค. - 1 พ.ย. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลูกค้ารับพอยต์คืนทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พร้อมรับพอยต์คืนสูงสุด 25% หลังจบงานฯ</p></li></ul><p style=\"margin-left: 0px;\">เพียงมียอดซื้อสะสมตลอดช่วงระยะเวลากิจกรรมตามที่บริษัทฯกำหนด</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 10% สำหรับยอดซื้อรวมตั้งแต่ 350 – 2,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 15% สำหรับยอดซื้อรวมตั้งแต่ 3,000 – 5,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 25% สำหรับยอดซื้อรวมตั้งแต่ 6,000 บาท ขึ้นไป</p></li></ul><p style=\"margin-left: 0px;\"><strong>※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 13 ตุลาคม 2569<br>※ จำกัดการสั่งซื้อบนเว็ปไซต์เท่านั้น<br>※ พอยต์เพิ่มจะได้รับคืนภายในวันที่ 10 พฤศจิกายน 2569</strong></p>"
+    },
+    {
+      "id": 729,
+      "title": "ลด 35% รวมอีบุ๊กสยองขวัญรับฮาโลวีน",
+      "url": "https://bookwalker.in.th/select/729/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/729/",
+      "campaignStartAt": "2026-10-26T03:00:00.000Z",
+      "campaignEndAt": "2026-11-04T16:59:59.000Z",
+      "startAt": "2026-10-08T17:00:00.000Z",
+      "endAt": "2026-11-04T16:59:59.000Z",
+      "categoryCsv": "other,manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">Happy Halloween !<br>อีบุ๊กสยองขวัญ หรือสืบสวนสอบสวน ไม่ว่าจะทั้งมังงะ ไลท์โนเวล หรือวรรณกรรม ลดเลย 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% กรอกโค้ด SPOOKY35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 26 กันยายน 2569</em></strong></p>"
     }
   ]
 }
