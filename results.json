@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T08:26:18.357Z",
+  "generatedAt": "2026-10-09T15:28:56.695Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
@@ -73,8 +73,8 @@
       "startAt": "2026-10-04T17:00:00.000Z",
       "endAt": "2026-10-31T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791537635243_Food_Manga_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791537635345_Food_Manga_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">ไม่ว่าจะเจอกับปัญหาอะไร อย่าปล่อยให้ท้องหิว !<br>ทั้งมังงะ ไลท์โนเวล หรือวรรณกรรมแปลที่มีอาหารอยู่ในเรื่องราว</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด YUM35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 18 กันยายน 2569</em></strong></p>"
     },
     {
