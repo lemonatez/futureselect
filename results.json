@@ -1,26 +1,12 @@
 {
-  "generatedAt": "2026-10-12T08:32:35.280Z",
+  "generatedAt": "2026-10-14T05:14:43.199Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 450,
-  "totalFuture": 26,
+  "totalFuture": 25,
   "results": [
-    {
-      "id": 720,
-      "title": "จัดกันต่อกับมังงะฤดูใบไม้ร่วง ลดสูงสุด 40%",
-      "url": "https://bookwalker.in.th/select/720/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/720/",
-      "campaignStartAt": "2026-10-14T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T16:59:59.000Z",
-      "startAt": "2026-10-04T17:00:00.000Z",
-      "endAt": "2026-11-01T16:59:59.000Z",
-      "categoryCsv": "manga,light_novel",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791455899501_Fall_Anime_Banner 1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791455899610_Fall_Anime_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">ลดต่อ ไม่รอแล้วนะ !! มังงะจากอนิเมะฤดูใบไม้ร่วง ลดสูงสุด 40%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 40% กรอกโค้ด FL40</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 20% กรอกโค้ด FL20</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 14 กันยายน 2569</em></strong></p>"
-    },
     {
       "id": 727,
       "title": "Flash Sales !! มังงะขายดีติดอันดับ 3 วันเท่านั้น",
@@ -201,7 +187,7 @@
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254334692_(D)_BookEx_Banner 1390x440 (1).png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254334820_(D)_BookEx_Banner 1290x900 (1).png",
-      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก Phoenix NEXT รับส่วนลดสองต่อ</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 70% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด PN70NW ใช้ได้ 1 ครั้งต่อบัญชี</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด PN30NW ไม่จำกัดจำนวนครั้ง</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ คูปองส่วนลด 30% ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่  9 ตุลาคม 2569</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับงานหนังสือโดยเฉพาะ <br>สมาชิกใหม่ซื้ออีบุ๊กจาก Phoenix NEXT รับส่วนลดสองต่อ</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 70% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด PN70NW ใช้ได้ 1 ครั้งต่อบัญชี</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด PN30NW ไม่จำกัดจำนวนครั้ง</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ คูปองส่วนลด 30% ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 9 ตุลาคม 2569</em></strong></p>"
     },
     {
       "id": 680,
