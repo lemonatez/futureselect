@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-14T05:14:43.199Z",
+  "generatedAt": "2026-10-14T10:26:09.261Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 450,
-  "totalFuture": 25,
+  "knownPages": 451,
+  "totalFuture": 26,
   "results": [
     {
       "id": 727,
@@ -356,6 +356,20 @@
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791792511283_Halloween__Banner 1392x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791792511390_Halloween__Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">Happy Halloween !<br>อีบุ๊กสยองขวัญ หรือสืบสวนสอบสวน ไม่ว่าจะทั้งมังงะ ไลท์โนเวล หรือวรรณกรรม ลดเลย 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% กรอกโค้ด SPOOKY35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 26 กันยายน 2569</em></strong></p>"
+    },
+    {
+      "id": 731,
+      "title": "คืนพอยต์ 40% กับ Fall Anime 2026",
+      "url": "https://bookwalker.in.th/select/731/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/731/",
+      "campaignStartAt": "2026-11-02T03:00:00.000Z",
+      "campaignEndAt": "2026-11-15T16:59:59.000Z",
+      "startAt": "2026-10-14T03:00:00.000Z",
+      "endAt": "2026-11-15T16:59:59.000Z",
+      "categoryCsv": "manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">คืนฉ่ำ สูงสุด 40% กับอนิเมะฤดูใบไม้ร่วง 2026</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พอยต์คืน 40% สำหรับมังงะ \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พอยต์คืน 20% สำหรับมังงะ \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 3 ตุลาคม 2569</em></strong><br>※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     }
   ]
 }
