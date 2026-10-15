@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-10-15T06:10:15.529Z",
+  "generatedAt": "2026-10-15T11:53:40.392Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 452,
-  "totalFuture": 25,
+  "knownPages": 455,
+  "totalFuture": 29,
   "results": [
+    {
+      "id": 652,
+      "title": "อีบุ๊กจาก Phoenix เล่มใหม่ ลดสูงสุด 30%!",
+      "url": "https://bookwalker.in.th/select/652/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/652/",
+      "campaignStartAt": "2026-10-15T17:00:00.000Z",
+      "campaignEndAt": "2026-10-31T16:59:59.000Z",
+      "startAt": "2026-10-14T17:00:00.000Z",
+      "endAt": "2026-10-31T16:59:59.000Z",
+      "categoryCsv": "manga,light_novel",
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792054320908_Phoenix_New_Banner 1392x440 (3).png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792054321060_Phoenix_New_Banner 1290x900 (2).png",
+      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับหนังสือออกใหม่จากสำนักพิมพ์ Phoenix</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มที่ 1 ออกใหม่ ลดทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ (ภาคต่อที่ออกใหม่) ลดทันที 10%</p></li></ul><p style=\"margin-left: 0px;\"><br><strong><em>※เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+    },
     {
       "id": 721,
       "title": "ลด 35% มังงะพระเอกหล่อบอกต่อด้วย !!",
@@ -118,6 +132,20 @@
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791785876015_Wedding_Banner_1392x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791785876100_Wedding_Banner_1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">เติมหวานกันให้สดชื่น มังงะของชีวิตคู่ชวนให้ใจเต้น ตึกตัก ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด LV35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 21 กันยายน 2569</em></strong></p>"
+    },
+    {
+      "id": 735,
+      "title": "ลด 30% อีบุ๊กจากปลายปากกานักเขียนคนไทย",
+      "url": "https://bookwalker.in.th/select/735/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/735/",
+      "campaignStartAt": "2026-10-22T03:00:00.000Z",
+      "campaignEndAt": "2026-11-21T16:59:59.000Z",
+      "startAt": "2026-10-14T17:00:00.000Z",
+      "endAt": "2026-11-21T16:59:59.000Z",
+      "categoryCsv": "other,manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">นิยายและคอมมิคจากนักเขียนชาวไทยพร้อมเสิร์ฟในแท็ก \"ไทยครีเอเตอร์\" <br>และส่วนลด 30% ให้ได้ลองชิม</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% กรอกโค้ด TC30</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 684,
@@ -356,6 +384,34 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\">งานหนังสือจบ แต่เราไม่จบ ! ซื้ออีบุ๊ก BL วันนี้รับโปรสองต่อ</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 20% สำหรับอีบุ๊กที่ร่วมรายการ</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์เพิ่มอีก 10 %</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 3 ตุลาคม 2569</em></strong><br><br><strong>ยิ่งซื้อยิ่งคุ้ม! พอยต์คืนใช้แทนเงินสดได้ รายละเอียดเพิ่มเติม </strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://bookwalker.in.th/info-point/\"><strong>คลิก</strong></a></p>"
+    },
+    {
+      "id": 733,
+      "title": "ลด 70% กับอีบุ๊กจากยัยตัวร้ายสุดปัง",
+      "url": "https://bookwalker.in.th/select/733/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/733/",
+      "campaignStartAt": "2026-11-02T03:00:00.000Z",
+      "campaignEndAt": "2026-11-15T16:59:59.000Z",
+      "startAt": "2026-10-14T17:00:00.000Z",
+      "endAt": "2026-11-15T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">หมดยุคนางเอกแสนดี ถึงคราวของนางร้ายแล้ว !</p><p style=\"margin-left: 0px;\">สมาชิกใหม่ BOOK☆WALKER ซื้ออีบุ๊กเรื่องที่กำหนดเล่ม 1 ลดเลย 70%!*</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สำหรับอีบุ๊ก \"เล่ม 1\" กรอกโค้ด VIL70NW</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+    },
+    {
+      "id": 734,
+      "title": "อีบุ๊กนางร้ายกลายเป็นตัวเอก ลดเลย 35%",
+      "url": "https://bookwalker.in.th/select/734/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/734/",
+      "campaignStartAt": "2026-11-02T03:00:00.000Z",
+      "campaignEndAt": "2026-11-15T16:59:59.000Z",
+      "startAt": "2026-10-14T17:00:00.000Z",
+      "endAt": null,
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">นางเอกหลบไป ตัวร้ายจะเดิน !<br>พี่บุ๊กแจกคูปองส่วนลด 35% </p>"
     }
   ]
 }
