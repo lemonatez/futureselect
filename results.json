@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:06:21.786Z",
+  "generatedAt": "2026-10-16T11:44:48.098Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
@@ -131,7 +131,7 @@
       "categoryCsv": "other,manga,light_novel",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">นิยายและคอมมิคจากนักเขียนชาวไทยพร้อมเสิร์ฟในแท็ก \"ไทยครีเอเตอร์\" <br>และส่วนลด 30% ให้ได้ลองชิม</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% กรอกโค้ด TC30</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">นิยายและคอมมิคจากนักเขียนชาวไทยพร้อมเสิร์ฟในแท็ก \"ไทยครีเอเตอร์\" <br>และส่วนลด 30% ให้ได้ลองชิม</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% กรอกโค้ด TC30</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br>※<strong><em>ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 7 ตุลาคม 2569</em></strong></p>"
     },
     {
       "id": 684,
@@ -393,11 +393,11 @@
       "campaignStartAt": "2026-11-02T03:00:00.000Z",
       "campaignEndAt": "2026-11-15T16:59:59.000Z",
       "startAt": "2026-10-14T17:00:00.000Z",
-      "endAt": null,
+      "endAt": "2026-11-14T17:00:00.000Z",
       "categoryCsv": "manga",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">นางเอกหลบไป ตัวร้ายจะเดิน !<br>พี่บุ๊กแจกคูปองส่วนลด 35% </p>"
+      "description": "<p style=\"margin-left: 0px;\">นางเอกหลบไป ตัวร้ายจะเดิน !<br>พี่บุ๊กแจกคูปองส่วนลด 35%</p>"
     }
   ]
 }
