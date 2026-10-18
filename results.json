@@ -1,40 +1,12 @@
 {
-  "generatedAt": "2026-10-16T11:44:48.098Z",
+  "generatedAt": "2026-10-18T06:19:33.347Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 455,
-  "totalFuture": 28,
+  "totalFuture": 26,
   "results": [
-    {
-      "id": 721,
-      "title": "ลด 35% มังงะพระเอกหล่อบอกต่อด้วย !!",
-      "url": "https://bookwalker.in.th/select/721/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/721/",
-      "campaignStartAt": "2026-10-18T03:00:00.000Z",
-      "campaignEndAt": "2026-10-31T16:59:59.000Z",
-      "startAt": "2026-10-04T17:00:00.000Z",
-      "endAt": "2026-10-31T16:59:59.000Z",
-      "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791533887748_Handsome_Banner_1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791533887866_Handsome_Banner_1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">หล่อ หล่อ อย่างนี้แล้วใครจะทนไหว !?<br>มังงะพระเอกสุดฮอต ทั้งโชเน็น กีฬา มาครบ !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด HOT35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 18 กันยายน 2569</em></strong></p>"
-    },
-    {
-      "id": 722,
-      "title": "หิวมั้ย ? รวมอีบุ๊กสุดอร่อยให้ลองชิม พร้อมส่วนลด 35%",
-      "url": "https://bookwalker.in.th/select/722/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/722/",
-      "campaignStartAt": "2026-10-18T03:00:00.000Z",
-      "campaignEndAt": "2026-10-31T16:59:59.000Z",
-      "startAt": "2026-10-04T17:00:00.000Z",
-      "endAt": "2026-10-31T16:59:59.000Z",
-      "categoryCsv": "other,manga,light_novel",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791537635243_Food_Manga_Banner 1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791537635345_Food_Manga_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">ไม่ว่าจะเจอกับปัญหาอะไร อย่าปล่อยให้ท้องหิว !<br>ทั้งมังงะ ไลท์โนเวล หรือวรรณกรรมแปลที่มีอาหารอยู่ในเรื่องราว</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด YUM35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 18 กันยายน 2569</em></strong></p>"
-    },
     {
       "id": 724,
       "title": "มังงะคลาสสิคชวนให้คิดถึง ลดสูงสุด 40%",
