@@ -1,40 +1,12 @@
 {
-  "generatedAt": "2026-10-19T12:00:59.577Z",
+  "generatedAt": "2026-10-19T18:47:40.988Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 455,
-  "totalFuture": 26,
+  "totalFuture": 24,
   "results": [
-    {
-      "id": 647,
-      "title": "First Page Pro. เล่มใหม่ลดสูงสุด 30%",
-      "url": "https://bookwalker.in.th/select/647/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/647/",
-      "campaignStartAt": "2026-10-19T17:00:00.000Z",
-      "campaignEndAt": "2026-11-30T16:59:59.000Z",
-      "startAt": "2026-10-18T17:00:00.000Z",
-      "endAt": "2026-11-30T16:59:59.000Z",
-      "categoryCsv": "manga,light_novel",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792397246978_FPP_New_Banner 1392x440 (6).jpg",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792397247090_FPP_New_Banner 1290x900 (5).jpg",
-      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับหนังสือออกใหม่จากสำนักพิมพ์ First Page Pro</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มที่ 1 ออกใหม่ ลดทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ (ภาคต่อที่ออกใหม่) ลดทันที 10%</p></li></ul><p style=\"margin-left: 0px;\">※เฉพาะอีบุ๊กที่ร่วมรายการ</p>"
-    },
-    {
-      "id": 730,
-      "title": "ลด 30% ฉลองฉายมูฟวี่ กับมาโดกะ☆มาจิก้า",
-      "url": "https://bookwalker.in.th/select/730/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/730/",
-      "campaignStartAt": "2026-10-19T17:00:00.000Z",
-      "campaignEndAt": "2026-11-30T16:59:59.000Z",
-      "startAt": "2026-10-11T17:00:00.000Z",
-      "endAt": "2026-11-30T16:59:59.000Z",
-      "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792396085693_Madoka_Magica_Banner 1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792396085880_Madoka_Magica_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">ฉลองการฉายภาพยนตร์สาวน้อยเวทมนต์สุดฮิตอย่าง \"สาวน้อยเวทมนตร์ มาโดกะ มาจิก้า เดอะ มูฟวี่\"</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% กรอกโค้ด MDK30</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เฉพาะอีบุ๊ก \"สาวน้อยเวทมนตร์มาโดกะ มาจิก้า New Complete Edition Vol. 1 - 2\" จากสำนักพิมพ์ Phoenix NEXT</p></li></ul>"
-    },
     {
       "id": 662,
       "title": "PHOENIX BF Select Page",
