@@ -1,26 +1,12 @@
 {
-  "generatedAt": "2026-10-18T06:19:33.347Z",
+  "generatedAt": "2026-10-19T05:41:07.017Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 455,
-  "totalFuture": 26,
+  "totalFuture": 25,
   "results": [
-    {
-      "id": 724,
-      "title": "มังงะคลาสสิคชวนให้คิดถึง ลดสูงสุด 40%",
-      "url": "https://bookwalker.in.th/select/724/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/724/",
-      "campaignStartAt": "2026-10-19T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T16:59:59.000Z",
-      "startAt": "2026-10-05T17:00:00.000Z",
-      "endAt": "2026-11-01T16:59:59.000Z",
-      "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791779253714_Classic_Manga_Banner 1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791779253819_Classic_Manga_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">มังงะเรื่องในตำนาน จัดกันมาลดทั้งแบบเล่มเดี่ยวและครบชุด !</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% สำหรับอีบุ๊ก \"เล่มเดี่ยว\" กรอกโค้ด CS30</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% สำหรับอีบุ๊ก \"ยกชุด\" กรอกโค้ด CS40</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 19 กันยายน 2569</em></strong></p>"
-    },
     {
       "id": 730,
       "title": "ลด 30% ฉลองฉายมูฟวี่ กับมาโดกะ☆มาจิก้า",
