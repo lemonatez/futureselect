@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T07:06:44.774Z",
+  "generatedAt": "2026-10-20T12:51:21.377Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 456,
-  "totalFuture": 25,
+  "knownPages": 457,
+  "totalFuture": 26,
   "results": [
     {
       "id": 662,
@@ -62,6 +62,20 @@
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791785876015_Wedding_Banner_1392x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791785876100_Wedding_Banner_1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">เติมหวานกันให้สดชื่น มังงะของชีวิตคู่ชวนให้ใจเต้น ตึกตัก ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด LV35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 21 กันยายน 2569</em></strong></p>"
+    },
+    {
+      "id": 739,
+      "title": "Siam Inter Comics จัดโปรยกชุดลดสุดคุ้ม ",
+      "url": "https://bookwalker.in.th/select/739/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/739/",
+      "campaignStartAt": "2026-10-21T03:00:00.000Z",
+      "campaignEndAt": "2026-11-02T16:59:59.000Z",
+      "startAt": "2026-10-19T17:00:00.000Z",
+      "endAt": "2026-11-02T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792491854874_SMM_Buddle_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792491855015_SMM_Buddle_Banner 1290x900.png",
+      "description": "<p style=\"margin-left: 0px;\">สยามลดรับงานหนังสือ ! จัดมังงะเรื่องเด็ดแบบยกชุด<br>ลด 10% รีบตำด่วน<br><br><strong>※<em>เฉพาะอีบุ๊ก \"ยกชุด\" ที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 735,
@@ -213,8 +227,8 @@
       "startAt": "2026-09-13T17:00:00.000Z",
       "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791167903592_(L)_BookEx_Banner 1390x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791254861283_(L)_BookEx_Banner 1290x900 (1).png",
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792489660675_(L)_BookEx_Banner 1390x440 (1).png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792489660817_(L)_BookEx_Banner 1290x900 (2).png",
       "description": "<p style=\"margin-left: 0px;\">มังงะอ่านฟรี 6 เล่มจากสำนักพิมพ์ First Page Pro. พร้อมโปรสำหรับสมาชิกใหม่</p><p style=\"margin-left: 0px;\">สมาชิกใหม่ซื้ออีบุ๊กจาก First Page Pro. รับส่วนลดจัดหนัก</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลดอีบุ๊ก 70% ไม่มีขั้นต่ำ สูงสุด 150 บาท กรอกโค้ด FPP70NW</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
@@ -275,7 +289,7 @@
     },
     {
       "id": 738,
-      "title": "BL เรื่องฮิตจาก Animate JMA ลดราคาแบบจัดหนัก สูงสุด 30%",
+      "title": "BL เรื่องฮิตจาก animate JMA ลดราคาแบบจัดหนัก สูงสุด 30%",
       "url": "https://bookwalker.in.th/select/738/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/738/",
       "campaignStartAt": "2026-10-23T03:00:00.000Z",
@@ -283,9 +297,9 @@
       "startAt": "2026-10-19T17:00:00.000Z",
       "endAt": "2026-11-01T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">มังงะเรื่องฮิต แบบซีรีย์ยาว ลดสูงสุด 30%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% สำหรับมังงะ \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 10% สำหรับมังงะ \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792485421404_Animate_JMA_Banner 1392x440.jpg",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792485421503_Animate_JMA_Banner 1290x900.jpg",
+      "description": "<p style=\"margin-left: 0px;\">อีบุ๊ก BL รวมฮิตมังงะเรื่องเด็ดจาก animate JMA ลดสูงสุด 30%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% สำหรับมังงะ \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 10% สำหรับมังงะ \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 729,
