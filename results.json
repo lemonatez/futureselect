@@ -1,54 +1,12 @@
 {
-  "generatedAt": "2026-10-20T12:51:21.377Z",
+  "generatedAt": "2026-10-20T17:45:50.402Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 457,
-  "totalFuture": 26,
+  "totalFuture": 23,
   "results": [
-    {
-      "id": 662,
-      "title": "PHOENIX BF Select Page",
-      "url": "https://bookwalker.in.th/select/662/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/662/",
-      "campaignStartAt": "2026-10-20T17:00:00.000Z",
-      "campaignEndAt": "2026-11-02T16:59:59.000Z",
-      "startAt": "2026-08-12T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
-      "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": null,
-      "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\"></p>"
-    },
-    {
-      "id": 663,
-      "title": "FPP BF Select",
-      "url": "https://bookwalker.in.th/select/663/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/663/",
-      "campaignStartAt": "2026-10-20T17:00:00.000Z",
-      "campaignEndAt": "2026-11-02T16:59:59.000Z",
-      "startAt": "2026-08-12T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
-      "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": null,
-      "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\"></p>"
-    },
-    {
-      "id": 664,
-      "title": "TAMA BF select",
-      "url": "https://bookwalker.in.th/select/664/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/664/",
-      "campaignStartAt": "2026-10-20T17:00:00.000Z",
-      "campaignEndAt": "2026-11-02T16:59:59.000Z",
-      "startAt": "2026-08-12T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
-      "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": null,
-      "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\"></p>"
-    },
     {
       "id": 723,
       "title": "ลด 35% มังงะคู่รักสุดหวาน♡อ่านแล้วฟิน ",
