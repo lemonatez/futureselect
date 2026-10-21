@@ -1,26 +1,12 @@
 {
-  "generatedAt": "2026-10-21T05:08:01.682Z",
+  "generatedAt": "2026-10-21T10:26:21.457Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 458,
-  "totalFuture": 21,
+  "totalFuture": 20,
   "results": [
-    {
-      "id": 735,
-      "title": "ลด 30% อีบุ๊กจากปลายปากกานักเขียนคนไทย",
-      "url": "https://bookwalker.in.th/select/735/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/735/",
-      "campaignStartAt": "2026-10-22T03:00:00.000Z",
-      "campaignEndAt": "2026-11-21T16:59:59.000Z",
-      "startAt": "2026-10-14T17:00:00.000Z",
-      "endAt": "2026-11-21T16:59:59.000Z",
-      "categoryCsv": "other,manga,light_novel",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792395434982_Thai_pub_Banner 1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792395435068_Thai_pub_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">นิยายและคอมมิคจากนักเขียนชาวไทยพร้อมเสิร์ฟในแท็ก \"ไทยครีเอเตอร์\" <br>และส่วนลด 30% ให้ได้ลองชิม</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% กรอกโค้ด TC30</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br>※<strong><em>ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 7 ตุลาคม 2569</em></strong></p>"
-    },
     {
       "id": 678,
       "title": "ลดสูงสุด 70% กับอีบุ๊กจาก Phoenix NEXT☆",
