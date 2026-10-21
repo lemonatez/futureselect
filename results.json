@@ -1,40 +1,12 @@
 {
-  "generatedAt": "2026-10-20T17:45:50.402Z",
+  "generatedAt": "2026-10-21T05:08:01.682Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 457,
-  "totalFuture": 23,
+  "knownPages": 458,
+  "totalFuture": 21,
   "results": [
-    {
-      "id": 723,
-      "title": "ลด 35% มังงะคู่รักสุดหวาน♡อ่านแล้วฟิน ",
-      "url": "https://bookwalker.in.th/select/723/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/723/",
-      "campaignStartAt": "2026-10-21T03:00:00.000Z",
-      "campaignEndAt": "2026-11-03T16:59:59.000Z",
-      "startAt": "2026-10-04T17:00:00.000Z",
-      "endAt": "2026-11-03T16:59:59.000Z",
-      "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791785876015_Wedding_Banner_1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791785876100_Wedding_Banner_1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">เติมหวานกันให้สดชื่น มังงะของชีวิตคู่ชวนให้ใจเต้น ตึกตัก ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด LV35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 21 กันยายน 2569</em></strong></p>"
-    },
-    {
-      "id": 739,
-      "title": "Siam Inter Comics จัดโปรยกชุดลดสุดคุ้ม ",
-      "url": "https://bookwalker.in.th/select/739/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/739/",
-      "campaignStartAt": "2026-10-21T03:00:00.000Z",
-      "campaignEndAt": "2026-11-02T16:59:59.000Z",
-      "startAt": "2026-10-19T17:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.000Z",
-      "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792491854874_SMM_Buddle_Banner 1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792491855015_SMM_Buddle_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">สยามลดรับงานหนังสือ ! จัดมังงะเรื่องเด็ดแบบยกชุด<br>ลด 10% รีบตำด่วน<br><br><strong>※<em>เฉพาะอีบุ๊ก \"ยกชุด\" ที่ร่วมรายการ</em></strong></p>"
-    },
     {
       "id": 735,
       "title": "ลด 30% อีบุ๊กจากปลายปากกานักเขียนคนไทย",
