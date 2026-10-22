@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T06:22:20.804Z",
+  "generatedAt": "2026-10-22T12:14:07.793Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
@@ -271,7 +271,7 @@
       "categoryCsv": "manga",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">หมดยุคนางเอกแสนดี ถึงคราวของนางร้ายแล้ว !</p><p style=\"margin-left: 0px;\">สมาชิกใหม่ BOOK☆WALKER ซื้ออีบุ๊กเรื่องที่กำหนดเล่ม 1 ลดเลย 70%!*</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สำหรับอีบุ๊ก \"เล่ม 1\" กรอกโค้ด VIL70NW</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">หมดยุคนางเอกแสนดี ถึงคราวของนางร้ายแล้ว !</p><p style=\"margin-left: 0px;\">สมาชิกใหม่ BOOK☆WALKER ซื้ออีบุ๊กเรื่องที่กำหนดเล่ม 1 ลดเลย 70%!*</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สำหรับอีบุ๊ก \"เล่ม 1\" กรอกโค้ด VIL70NW</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% สำหรับอีบุ๊ก \"เล่มต่อ\" กรอกโค้ด VIL35</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 734,
@@ -285,7 +285,7 @@
       "categoryCsv": "manga",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">นางเอกหลบไป ตัวร้ายจะเดิน !<br>พี่บุ๊กแจกคูปองส่วนลด 35%</p>"
+      "description": "<p style=\"margin-left: 0px;\">(not done yet)</p><p style=\"margin-left: 0px;\">นางเอกหลบไป ตัวร้ายจะเดิน !<br>พี่บุ๊กแจกคูปองส่วนลด 35%</p>"
     }
   ]
 }
