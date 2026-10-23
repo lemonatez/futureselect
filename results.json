@@ -1,54 +1,12 @@
 {
-  "generatedAt": "2026-10-22T17:28:27.565Z",
+  "generatedAt": "2026-10-23T03:13:58.030Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 458,
-  "totalFuture": 8,
+  "totalFuture": 5,
   "results": [
-    {
-      "id": 725,
-      "title": "โปรงานหนังสือออนไลน์ที่ BOOK☆WALKER ทั้งลดทั้งแจกหนัก !!",
-      "url": "https://bookwalker.in.th/select/725/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/725/",
-      "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T16:59:59.000Z",
-      "startAt": "2026-10-06T17:00:00.000Z",
-      "endAt": "2026-11-01T16:59:59.000Z",
-      "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792395607806_(1)_BookEx Promo_Banner 1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792395607898_(3)_BookEx Promo_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\"><strong>BOOK☆WALKER จัดโปรแรงฉลองงานหนังสือ ลดยาว ๆ พร้อมโปร 2 เฟส</strong></p><h3 style=\"margin-left: 0px;\">▷ เฟส 1: ส่วนลดสูงสุด 40%* <em>ตั้งแต่ 23-26 ต.ค. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% ขั้นต่ำ 600 บาท กรอกโค้ด BW40BE</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด BW30BE</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 9 ตุลาคม 2569</p><h3 style=\"margin-left: 0px;\">▷ เฟส 2: พอยต์คืนแบบจัดเต็ม สูงสุด 55%* <em>ตั้งแต่ 27 ต.ค. - 1 พ.ย. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลูกค้ารับพอยต์คืนทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พร้อมรับพอยต์คืนสูงสุด 25% หลังจบงานฯ</p></li></ul><p style=\"margin-left: 0px;\">เพียงมียอดซื้อสะสมตลอดช่วงระยะเวลากิจกรรมตามที่บริษัทฯกำหนด</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 10% สำหรับยอดซื้อรวมตั้งแต่ 350 – 2,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 15% สำหรับยอดซื้อรวมตั้งแต่ 3,000 – 5,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 25% สำหรับยอดซื้อรวมตั้งแต่ 6,000 บาท ขึ้นไป</p></li></ul><p style=\"margin-left: 0px;\"><strong>※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 13 ตุลาคม 2569<br>※ จำกัดการสั่งซื้อบนเว็ปไซต์เท่านั้น<br>※ พอยต์คืนเพิ่มจะได้รับคืนภายในวันที่ 10 พฤศจิกายน 2569</strong></p>"
-    },
-    {
-      "id": 726,
-      "title": "โปรงานหนังสือออนไลน์ที่ BOOK☆WALKER ทั้งลดทั้งแจกหนัก !!",
-      "url": "https://bookwalker.in.th/select/726/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/726/",
-      "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T16:59:59.000Z",
-      "startAt": "2026-10-06T17:00:00.000Z",
-      "endAt": "2026-11-01T16:59:59.000Z",
-      "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792395629741_(2)_BookEx Promo_Banner 820x260.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792395629819_(5)_BookEx Promo_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\"><strong>BOOK☆WALKER จัดโปรแรงฉลองงานหนังสือ ลดยาว ๆ พร้อมโปร 2 เฟส</strong></p><h3 style=\"margin-left: 0px;\">▷ เฟส 1: ส่วนลดสูงสุด 40%* <em>ตั้งแต่ 23-26 ต.ค. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% ขั้นต่ำ 600 บาท กรอกโค้ด BW40BE</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด BW30BE</p></li></ul><p style=\"margin-left: 0px;\">※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 9 ตุลาคม 2569</p><h3 style=\"margin-left: 0px;\">▷ เฟส 2: พอยต์คืนแบบจัดเต็ม สูงสุด 55%* <em>ตั้งแต่ 27 ต.ค. - 1 พ.ย. 2569</em></h3><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลูกค้ารับพอยต์คืนทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พร้อมรับพอยต์คืนสูงสุด 25% หลังจบงานฯ</p></li></ul><p style=\"margin-left: 0px;\">เพียงมียอดซื้อสะสมตลอดช่วงระยะเวลากิจกรรมตามที่บริษัทฯกำหนด</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 10% สำหรับยอดซื้อรวมตั้งแต่ 350 – 2,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 15% สำหรับยอดซื้อรวมตั้งแต่ 3,000 – 5,999 บาท</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์คืน เพิ่ม 25% สำหรับยอดซื้อรวมตั้งแต่ 6,000 บาท ขึ้นไป</p></li></ul><p style=\"margin-left: 0px;\"><strong>※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 13 ตุลาคม 2569<br>※ จำกัดการสั่งซื้อบนเว็ปไซต์เท่านั้น<br>※ พอยต์คืนเพิ่มจะได้รับคืนภายในวันที่ 10 พฤศจิกายน 2569</strong></p>"
-    },
-    {
-      "id": 738,
-      "title": "BL เรื่องฮิตจาก animate JMA ลดราคาแบบจัดหนัก สูงสุด 30%",
-      "url": "https://bookwalker.in.th/select/738/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/738/",
-      "campaignStartAt": "2026-10-23T03:00:00.000Z",
-      "campaignEndAt": "2026-11-01T16:59:59.000Z",
-      "startAt": "2026-10-19T17:00:00.000Z",
-      "endAt": "2026-11-01T16:59:59.000Z",
-      "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792485421404_Animate_JMA_Banner 1392x440.jpg",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1792485421503_Animate_JMA_Banner 1290x900.jpg",
-      "description": "<p style=\"margin-left: 0px;\">อีบุ๊ก BL รวมฮิตมังงะเรื่องเด็ดจาก animate JMA ลดสูงสุด 30%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% สำหรับมังงะ \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 10% สำหรับมังงะ \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
-    },
     {
       "id": 729,
       "title": "ลด 35% รวมอีบุ๊กสยองขวัญรับฮาโลวีน",
