@@ -1,26 +1,12 @@
 {
-  "generatedAt": "2026-10-23T03:13:58.030Z",
+  "generatedAt": "2026-10-26T05:45:09.306Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 458,
-  "totalFuture": 5,
+  "knownPages": 463,
+  "totalFuture": 9,
   "results": [
-    {
-      "id": 729,
-      "title": "ลด 35% รวมอีบุ๊กสยองขวัญรับฮาโลวีน",
-      "url": "https://bookwalker.in.th/select/729/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/729/",
-      "campaignStartAt": "2026-10-26T03:00:00.000Z",
-      "campaignEndAt": "2026-11-04T16:59:59.000Z",
-      "startAt": "2026-10-08T17:00:00.000Z",
-      "endAt": "2026-11-04T16:59:59.000Z",
-      "categoryCsv": "other,manga,light_novel",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791792511283_Halloween__Banner 1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791792511390_Halloween__Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">Happy Halloween !<br>อีบุ๊กสยองขวัญ หรือสืบสวนสอบสวน ไม่ว่าจะทั้งมังงะ ไลท์โนเวล หรือวรรณกรรม ลดเลย 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% กรอกโค้ด SPOOKY35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 26 กันยายน 2569</em></strong></p>"
-    },
     {
       "id": 731,
       "title": "คืนพอยต์ 40% กับ Fall Anime 2026",
@@ -61,7 +47,7 @@
       "categoryCsv": "manga",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">หมดยุคนางเอกแสนดี ถึงคราวของนางร้ายแล้ว !</p><p style=\"margin-left: 0px;\">สมาชิกใหม่ BOOK☆WALKER ซื้ออีบุ๊กเรื่องที่กำหนดเล่ม 1 ลดเลย 70%!*</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สำหรับอีบุ๊ก \"เล่ม 1\" กรอกโค้ด VIL70NW</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% สำหรับอีบุ๊ก \"เล่มต่อ\" กรอกโค้ด VIL35</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">หมดยุคนางเอกแสนดี ถึงคราวของนางร้ายแล้ว !</p><p style=\"margin-left: 0px;\">สมาชิกใหม่ BOOK☆WALKER ซื้ออีบุ๊กเรื่องที่กำหนดเล่ม 1 ลดเลย 70%!*</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สำหรับอีบุ๊ก \"เล่ม 1\" กรอกโค้ด VIL70NW</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% สำหรับอีบุ๊ก \"เล่มต่อ\" กรอกโค้ด VIL35</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br>※<strong><em>ส่วนลด 30% ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 3 ตุลาคม 2569</em></strong></p>"
     },
     {
       "id": 734,
@@ -75,7 +61,77 @@
       "categoryCsv": "manga",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">(not done yet)</p><p style=\"margin-left: 0px;\">นางเอกหลบไป ตัวร้ายจะเดิน !<br>พี่บุ๊กแจกคูปองส่วนลด 35%</p>"
+      "description": "<p style=\"margin-left: 0px;\">นางเอกหลบไป ตัวร้ายจะเดิน !<br>พี่บุ๊กแจกคูปองส่วนลด 35% กับมังงะนางร้าย</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% ไม่มีขั้นต่ำ กรอกโค้ด VIL35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 3 ตุลาคม 2569</em></strong></p>"
+    },
+    {
+      "id": 740,
+      "title": "BL ออกใหม่ลดสุดโหด 60% !!",
+      "url": "https://bookwalker.in.th/select/740/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/740/",
+      "campaignStartAt": "2026-11-02T03:00:00.000Z",
+      "campaignEndAt": "2026-11-09T16:59:59.000Z",
+      "startAt": "2026-10-25T17:00:00.000Z",
+      "endAt": "2026-11-09T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">เสิร์ฟโปรกันแบบไม่ยั้งเพื่อสาววายโดยเฉพาะ กับ BOOK☆WALKER <br>สมาชิกใหม่ซื้ออีบุ๊ก BL ลดเลย 60%!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% สูงสุด 500 บาท กรอกโค้ด Y60NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+    },
+    {
+      "id": 741,
+      "title": "Teens' Love สุดร้อนแรง ขนกันมาลด 60%",
+      "url": "https://bookwalker.in.th/select/741/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/741/",
+      "campaignStartAt": "2026-11-07T03:00:00.000Z",
+      "campaignEndAt": "2026-11-20T16:59:59.000Z",
+      "startAt": "2026-10-25T17:00:00.000Z",
+      "endAt": "2026-11-20T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\"></p>"
+    },
+    {
+      "id": 742,
+      "title": "ทั้ง TL ทั้ง Shoujo ขนกันมาลดแบบปัง สูงสุด 40%",
+      "url": "https://bookwalker.in.th/select/742/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/742/",
+      "campaignStartAt": "2026-11-07T03:00:00.000Z",
+      "campaignEndAt": "2026-11-20T16:59:59.000Z",
+      "startAt": "2026-10-25T17:00:00.000Z",
+      "endAt": "2026-11-20T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\"></p>"
+    },
+    {
+      "id": 743,
+      "title": "ยูริสุดหวานเรื่องใหม่จากเฟิร์สจัง ลด 60% สำหรับสมาชิกใหม่!",
+      "url": "https://bookwalker.in.th/select/743/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/743/",
+      "campaignStartAt": "2026-11-14T03:00:00.000Z",
+      "campaignEndAt": "2026-11-26T16:59:59.000Z",
+      "startAt": "2026-10-25T17:00:00.000Z",
+      "endAt": "2026-11-26T16:59:59.000Z",
+      "categoryCsv": "manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">\"โดดเรียนมาพักใจที่ห้องพยาบาลสักหน่อยไหมล่ะ?\"</p><p style=\"margin-left: 0px;\">มังงะแนวยูริจาก First Page Pro. ลด 60% สำหรับสมาชิกใหม่</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ กรอกโค้ด YR60NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p><p style=\"margin-left: 0px;\">พร้อมโปรเรื่องอื่น ๆ ลด 35% <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://bookwalker.in.th/select/744/\">คลิก</a></p>"
+    },
+    {
+      "id": 744,
+      "title": "ยูริเรื่องเด็ด พี่บุ๊กคัดมาแล้ว ลด 35%",
+      "url": "https://bookwalker.in.th/select/744/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/744/",
+      "campaignStartAt": "2026-11-14T03:00:00.000Z",
+      "campaignEndAt": "2026-11-26T16:59:59.000Z",
+      "startAt": "2026-10-25T17:00:00.000Z",
+      "endAt": "2026-11-26T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">สาวกทุ่งลิลลี่ห้ามพลาด มังงะยูริที่ร่วมรายการ ลด 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% ไม่มีขั้นต่ำ กรอกโค้ด YR35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 15 ตุลาคม 2569</em></strong></p>"
     }
   ]
 }
