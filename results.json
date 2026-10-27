@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T02:16:49.361Z",
+  "generatedAt": "2026-10-27T08:10:45.673Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 464,
-  "totalFuture": 10,
+  "knownPages": 465,
+  "totalFuture": 11,
   "results": [
     {
       "id": 731,
@@ -73,8 +73,8 @@
       "startAt": "2026-10-25T17:00:00.000Z",
       "endAt": "2026-11-09T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083124315_BL_NewUse_Banner 1392x440.jpg",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083124403_BL_NewUse_Banner 1290x900.jpg",
       "description": "<p style=\"margin-left: 0px;\">เสิร์ฟโปรกันแบบไม่ยั้งเพื่อสาววายโดยเฉพาะ กับ BOOK☆WALKER <br>สมาชิกใหม่ซื้ออีบุ๊ก BL ลดเลย 60%!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% สูงสุด 500 บาท กรอกโค้ด Y60NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
@@ -89,7 +89,21 @@
       "categoryCsv": "manga",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\"></p>"
+      "description": "<p style=\"margin-left: 0px;\">จัดโปรให้หนุ่ม ๆ กันอีกครั้ง กับสาวทรงแซ่บสุดสยิว<strong><em>♡</em></strong> คืนพอยต์ 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พอยต์คืน 35% เมื่อซื้ออีบุ๊กที่ร่วมรายการ</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 3 ตุลาคม 2569</em></strong></p>"
+    },
+    {
+      "id": 746,
+      "title": "\"หนุ่มแว่นขอเป็นแยงกี้ชั่วคราว\" สมาชิกใหม่ลดสูงสุด 70%",
+      "url": "https://bookwalker.in.th/select/746/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/746/",
+      "campaignStartAt": "2026-11-02T03:00:00.000Z",
+      "campaignEndAt": "2026-11-15T16:59:59.000Z",
+      "startAt": "2026-10-26T17:00:00.000Z",
+      "endAt": "2026-11-15T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">\"หนุ่มแว่นขอเป็นแยงกี้ชั่วคราว\" มังงะที่กำลังจะดัดแปลงเป็นอนิเมะเร็ว ๆ นี้!<br>พร้อมโปรสมาชิกใหม่ลดสูงสุด 70%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สำหรับอีบุ๊ก \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% สำหรับอีบุ๊ก \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 741,
@@ -103,11 +117,11 @@
       "categoryCsv": "manga",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793065953907_Tama_NewUse_Banner 1392x440.jpg",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793065954016_Tama_NewUse_Banner 1290x900.jpg",
-      "description": "<p style=\"margin-left: 0px;\"></p>"
+      "description": "<p style=\"margin-left: 0px;\">มังงะแนวรักร้อนแรง Teens' Love ออกใหม่จากทามะตัน !<br>สมาชิกใหม่แจกส่วนลด 60% ตำด่วน</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ ไม่จำกัดส่วนลด สามารถใช้ได้ 1 ครั้งตลอดระยะเวลากิจกรรม</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 742,
-      "title": "ทั้ง TL ทั้ง Shoujo ขนกันมาลดแบบปัง สูงสุด 40%",
+      "title": "มังงะ Shoujo ขนกันมาลดแบบปัง สูงสุด 40%",
       "url": "https://bookwalker.in.th/select/742/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/742/",
       "campaignStartAt": "2026-11-07T03:00:00.000Z",
@@ -115,9 +129,9 @@
       "startAt": "2026-10-25T17:00:00.000Z",
       "endAt": "2026-11-20T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\"></p>"
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083055413_Shojo_Banner_1392x440.jpg",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083055525_Shojo_Banner_1290x900.jpg",
+      "description": "<p style=\"margin-left: 0px;\">รวมมังงะการ์ตูนสาวหวานในวัยเด็ก ลดสูงสุด 40%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับส่วนลดทันที 30% สำหรับอีบุ๊ก \"เล่ม 1\" โดยไม่ต้องกรอกโค้ดส่วนลด</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% สำหรับอีบุ๊ก \"เล่มต่อ\" กรอกโค้ด TL30</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% เมื่อมียอดขั้นต่ำ 1,000 บาท กรอกโค้ด TL40</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 8 ตุลาคม 2569</em></strong></p>"
     },
     {
       "id": 743,
@@ -129,8 +143,8 @@
       "startAt": "2026-10-25T17:00:00.000Z",
       "endAt": "2026-11-26T16:59:59.000Z",
       "categoryCsv": "manga,light_novel",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083075640_GL_NewUse_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083075746_GL_NewUse_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">\"โดดเรียนมาพักใจที่ห้องพยาบาลสักหน่อยไหมล่ะ?\"</p><p style=\"margin-left: 0px;\">มังงะแนวยูริจาก First Page Pro. ลด 60% สำหรับสมาชิกใหม่</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ กรอกโค้ด YR60NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p><p style=\"margin-left: 0px;\">พร้อมโปรเรื่องอื่น ๆ ลด 35% <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://bookwalker.in.th/select/744/\">คลิก</a></p>"
     },
     {
@@ -143,8 +157,8 @@
       "startAt": "2026-10-25T17:00:00.000Z",
       "endAt": "2026-11-26T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083098452_GL_Banner_1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083098534_GL_Banner_1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">สาวกทุ่งลิลลี่ห้ามพลาด มังงะยูริที่ร่วมรายการ ลด 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% ไม่มีขั้นต่ำ กรอกโค้ด YR35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 15 ตุลาคม 2569</em></strong></p>"
     }
   ]
