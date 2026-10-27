@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T08:10:45.673Z",
+  "generatedAt": "2026-10-27T14:47:41.195Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 465,
-  "totalFuture": 11,
+  "knownPages": 466,
+  "totalFuture": 12,
   "results": [
     {
       "id": 731,
@@ -104,6 +104,20 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\">\"หนุ่มแว่นขอเป็นแยงกี้ชั่วคราว\" มังงะที่กำลังจะดัดแปลงเป็นอนิเมะเร็ว ๆ นี้!<br>พร้อมโปรสมาชิกใหม่ลดสูงสุด 70%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 70% สำหรับอีบุ๊ก \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% สำหรับอีบุ๊ก \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+    },
+    {
+      "id": 747,
+      "title": "ผมโดนไล่ออกจากปาร์ตี้ แบบนี้ต้องคืนพอยต์ 35%",
+      "url": "https://bookwalker.in.th/select/747/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/747/",
+      "campaignStartAt": "2026-11-02T03:00:00.000Z",
+      "campaignEndAt": "2026-11-14T17:00:00.000Z",
+      "startAt": "2026-10-26T17:00:00.000Z",
+      "endAt": "2026-11-14T17:00:00.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">รวมมังงะโดนไล่ออกจากปาร์ตี้ ทั้งที่ผมนี่เทพสุดในสามโลก<br>พร้อมคืนพอยต์ทันที 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พอยต์คืน 35% เมื่อซื้ออีบุ๊กที่ร่วมรายการ</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 3 ตุลาคม 2569</em></strong></p>"
     },
     {
       "id": 741,
