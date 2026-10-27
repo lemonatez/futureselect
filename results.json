@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T05:45:09.306Z",
+  "generatedAt": "2026-10-27T02:16:49.361Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 463,
-  "totalFuture": 9,
+  "knownPages": 464,
+  "totalFuture": 10,
   "results": [
     {
       "id": 731,
@@ -17,8 +17,8 @@
       "startAt": "2026-10-14T03:00:00.000Z",
       "endAt": "2026-11-15T16:59:59.000Z",
       "categoryCsv": "manga,light_novel",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793065906726_Fall_Anime PB_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793065906824_Fall_Anime PB_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">คืนฉ่ำ สูงสุด 40% กับอนิเมะฤดูใบไม้ร่วง 2026</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พอยต์คืน 40% สำหรับมังงะ \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พอยต์คืน 20% สำหรับมังงะ \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\">※<strong><em>ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 3 ตุลาคม 2569</em></strong><br>※<strong><em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
@@ -31,8 +31,8 @@
       "startAt": "2026-10-14T17:00:00.000Z",
       "endAt": "2026-11-09T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793065933312_BL_promo_Banner 1392x440 (2).png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793065933433_BL_promo_Banner 1290x900 (2).png",
       "description": "<p style=\"margin-left: 0px;\">งานหนังสือจบ แต่เราไม่จบ ! ซื้ออีบุ๊ก BL วันนี้รับโปรสองต่อ</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 20% สำหรับอีบุ๊กที่ร่วมรายการ</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับพอยต์เพิ่มอีก 10 %</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 3 ตุลาคม 2569</em></strong><br><br><strong>ยิ่งซื้อยิ่งคุ้ม! พอยต์คืนใช้แทนเงินสดได้ รายละเอียดเพิ่มเติม </strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://bookwalker.in.th/info-point/\"><strong>คลิก</strong></a></p>"
     },
     {
@@ -78,6 +78,20 @@
       "description": "<p style=\"margin-left: 0px;\">เสิร์ฟโปรกันแบบไม่ยั้งเพื่อสาววายโดยเฉพาะ กับ BOOK☆WALKER <br>สมาชิกใหม่ซื้ออีบุ๊ก BL ลดเลย 60%!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% สูงสุด 500 บาท กรอกโค้ด Y60NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
+      "id": 745,
+      "title": "อึ๋มมานี่มา! รวมมังงะสาวสุดแซ่บคืนพอยต์ 35%",
+      "url": "https://bookwalker.in.th/select/745/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/745/",
+      "campaignStartAt": "2026-11-02T03:00:00.000Z",
+      "campaignEndAt": "2026-11-15T16:59:59.000Z",
+      "startAt": "2026-10-26T17:00:00.000Z",
+      "endAt": "2026-11-15T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\"></p>"
+    },
+    {
       "id": 741,
       "title": "Teens' Love สุดร้อนแรง ขนกันมาลด 60%",
       "url": "https://bookwalker.in.th/select/741/",
@@ -87,8 +101,8 @@
       "startAt": "2026-10-25T17:00:00.000Z",
       "endAt": "2026-11-20T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793065953907_Tama_NewUse_Banner 1392x440.jpg",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793065954016_Tama_NewUse_Banner 1290x900.jpg",
       "description": "<p style=\"margin-left: 0px;\"></p>"
     },
     {
