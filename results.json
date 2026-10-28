@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-28T09:16:54.323Z",
+  "generatedAt": "2026-10-28T16:12:13.166Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 466,
-  "totalFuture": 12,
+  "knownPages": 467,
+  "totalFuture": 13,
   "results": [
     {
       "id": 731,
@@ -146,6 +146,20 @@
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083055413_Shojo_Banner_1392x440.jpg",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083055525_Shojo_Banner_1290x900.jpg",
       "description": "<p style=\"margin-left: 0px;\">รวมมังงะการ์ตูนสาวหวานในวัยเด็ก ลดสูงสุด 40%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">รับส่วนลดทันที 30% สำหรับอีบุ๊ก \"เล่ม 1\" โดยไม่ต้องกรอกโค้ดส่วนลด</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% สำหรับอีบุ๊ก \"เล่มต่อ\" กรอกโค้ด TL30</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% เมื่อมียอดขั้นต่ำ 1,000 บาท กรอกโค้ด TL40</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 8 ตุลาคม 2569</em></strong></p>"
+    },
+    {
+      "id": 748,
+      "title": "11.11 ลดกันจัดหนักสูงสุด 30%!!",
+      "url": "https://bookwalker.in.th/select/748/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/748/",
+      "campaignStartAt": "2026-11-10T03:00:00.000Z",
+      "campaignEndAt": "2026-11-13T16:59:59.000Z",
+      "startAt": "2026-10-28T03:00:00.000Z",
+      "endAt": "2026-11-13T16:59:59.000Z",
+      "categoryCsv": "other,manga,light_novel,art_book",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\"></p>"
     },
     {
       "id": 743,
