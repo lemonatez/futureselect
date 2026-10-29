@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-28T16:12:13.166Z",
+  "generatedAt": "2026-10-29T07:27:19.603Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 467,
-  "totalFuture": 13,
+  "knownPages": 468,
+  "totalFuture": 14,
   "results": [
     {
       "id": 731,
@@ -73,8 +73,8 @@
       "startAt": "2026-10-25T17:00:00.000Z",
       "endAt": "2026-11-09T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083124315_BL_NewUse_Banner 1392x440.jpg",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083124403_BL_NewUse_Banner 1290x900.jpg",
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793240729569_BL_NewUse_Banner 1392x440 (5).png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793240729721_BL_NewUse_Banner 1290x900 (5).png",
       "description": "<p style=\"margin-left: 0px;\">เสิร์ฟโปรกันแบบไม่ยั้งเพื่อสาววายโดยเฉพาะ กับ BOOK☆WALKER <br>สมาชิกใหม่ซื้ออีบุ๊ก BL ลดเลย 60%!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% สูงสุด 500 บาท กรอกโค้ด Y60NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
@@ -155,6 +155,20 @@
       "campaignStartAt": "2026-11-10T03:00:00.000Z",
       "campaignEndAt": "2026-11-13T16:59:59.000Z",
       "startAt": "2026-10-28T03:00:00.000Z",
+      "endAt": "2026-11-13T16:59:59.000Z",
+      "categoryCsv": "other,manga,light_novel,art_book",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">จัดโปรวันเลขเด็ด 11.11 ลดสูงสุด 30%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% เมื่อมียอดขั้นต่ำ 1,111 บาท กรอกโค้ด BW30</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 20% เมื่อมียอดขั้นต่ำ 111 บาท กรอกโค้ด BW20</p></li></ul><p style=\"margin-left: 0px;\"><strong>※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 11 ตุลาคม 2569</strong></p>"
+    },
+    {
+      "id": 749,
+      "title": "11.11 ลดกันจัดหนักสูงสุด 30%!!",
+      "url": "https://bookwalker.in.th/select/749/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/749/",
+      "campaignStartAt": "2026-11-10T03:00:00.000Z",
+      "campaignEndAt": "2026-11-13T16:59:59.000Z",
+      "startAt": "2026-10-28T17:00:00.000Z",
       "endAt": "2026-11-13T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": null,
