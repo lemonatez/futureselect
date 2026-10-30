@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T14:35:31.042Z",
+  "generatedAt": "2026-10-30T13:18:27.051Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 468,
-  "totalFuture": 14,
+  "knownPages": 469,
+  "totalFuture": 15,
   "results": [
     {
       "id": 731,
@@ -202,6 +202,20 @@
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083098452_GL_Banner_1392x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083098534_GL_Banner_1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">สาวกทุ่งลิลลี่ห้ามพลาด มังงะยูริที่ร่วมรายการ ลด 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% ไม่มีขั้นต่ำ กรอกโค้ด YR35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 15 ตุลาคม 2569</em></strong></p>"
+    },
+    {
+      "id": 750,
+      "title": "ลด 60% \"โอตาคุคลั่งรักกับนายโอชิ\" BL ออกใหม่จากรักพิมพ์",
+      "url": "https://bookwalker.in.th/select/750/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/750/",
+      "campaignStartAt": "2026-11-16T03:00:00.000Z",
+      "campaignEndAt": "2026-11-30T16:59:59.000Z",
+      "startAt": "2026-10-29T17:00:00.000Z",
+      "endAt": "2026-11-30T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">BL ออกใหม่จากรักพิมพ์ พี่บุ๊กอยากแนะนำจนต้องจัดโปร<br>\"โอตาคุคลั่งรักกับนายโอชิ\" สมาชิกใหม่ลด 60%!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ กรอกโค้ด LPY60NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     }
   ]
 }
