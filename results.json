@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-02T04:12:46.939Z",
+  "generatedAt": "2026-11-03T11:35:38.076Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 469,
-  "totalFuture": 7,
+  "knownPages": 472,
+  "totalFuture": 10,
   "results": [
     {
       "id": 741,
@@ -45,8 +45,8 @@
       "startAt": "2026-10-28T03:00:00.000Z",
       "endAt": "2026-11-13T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793696775172_(3)_11.11_Banner 1392x440.jpg",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793696775297_(3)_11.11_Banner 1290x900.jpg",
       "description": "<p style=\"margin-left: 0px;\">จัดโปรวันเลขเด็ด 11.11 ลดสูงสุด 30%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% เมื่อมียอดขั้นต่ำ 1,111 บาท กรอกโค้ด BW30</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 20% เมื่อมียอดขั้นต่ำ 111 บาท กรอกโค้ด BW20</p></li></ul><p style=\"margin-left: 0px;\"><strong>※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 11 ตุลาคม 2569</strong></p>"
     },
     {
@@ -59,8 +59,8 @@
       "startAt": "2026-10-28T17:00:00.000Z",
       "endAt": "2026-11-13T16:59:59.000Z",
       "categoryCsv": "other,manga,light_novel,art_book",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793696810293_(5)_11.11_Banner 1392x440.jpg",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793696810402_(5)_11.11_Banner 1290x900.jpg",
       "description": "<p style=\"margin-left: 0px;\">จัดโปรวันเลขเด็ด 11.11 ลดสูงสุด 30%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% เมื่อมียอดขั้นต่ำ 1,111 บาท กรอกโค้ด BW30</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 20% เมื่อมียอดขั้นต่ำ 111 บาท กรอกโค้ด BW20</p></li></ul><p style=\"margin-left: 0px;\"><strong>※ ไม่สามารถใช้ได้กับรายการอีบุ๊กออกใหม่ตั้งแต่วันที่ 11 ตุลาคม 2569</strong></p>"
     },
     {
@@ -104,6 +104,48 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\">BL ออกใหม่จากรักพิมพ์ พี่บุ๊กอยากแนะนำจนต้องจัดโปร<br>\"โอตาคุคลั่งรักกับนายโอชิ\" สมาชิกใหม่ลด 60%!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ กรอกโค้ด LPY60NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+    },
+    {
+      "id": 751,
+      "title": "อีบุ๊กวาย เพื่อสาววายได้เติมเกย์ ลดสูงสุด 40%",
+      "url": "https://bookwalker.in.th/select/751/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/751/",
+      "campaignStartAt": "2026-11-16T03:00:00.000Z",
+      "campaignEndAt": "2026-11-30T16:59:59.000Z",
+      "startAt": "2026-11-02T17:00:00.000Z",
+      "endAt": "2026-11-30T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">เติมเกกันจนฉ่ำปอด มัดรวมอีบุ๊ก BL จากหลายสำนักพิมพ์ดังมาลดสูงสุด 40%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% เมื่อมียอดคำสั่งซื้อขั้นต่ำ 1,000 บาท กรอกโค้ด Y40</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ไม่มีขั้นต่ำ ไม่จำกัดจำนวนส่วนลด กรอกโค้ด Y30</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 2 พฤศจิกายน 2569</em></strong></p>"
+    },
+    {
+      "id": 752,
+      "title": "ลด 35%❤︎ มังงะหนุ่มหล่อบอกต่อด้วย",
+      "url": "https://bookwalker.in.th/select/752/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/752/",
+      "campaignStartAt": "2026-11-16T03:00:00.000Z",
+      "campaignEndAt": "2026-11-30T16:59:59.000Z",
+      "startAt": "2026-11-02T17:00:00.000Z",
+      "endAt": "2026-11-30T16:59:59.000Z",
+      "categoryCsv": "manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">รวมมังงะที่มีแต่หนุ่มหล่อ แค่ดูภาพก็ฟินแล้ว !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% ไม่มีขั้นต่ำ กรอกโค้ด HOT35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 17 ตุลาคม 2569</em></strong></p>"
+    },
+    {
+      "id": 753,
+      "title": "เติมความแซ่บให้ในทุกวัน กับมังงะสุดเสว ลด 35%",
+      "url": "https://bookwalker.in.th/select/753/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/753/",
+      "campaignStartAt": "2026-11-16T03:00:00.000Z",
+      "campaignEndAt": "2026-11-29T17:00:00.000Z",
+      "startAt": "2026-11-02T17:00:00.000Z",
+      "endAt": "2026-11-29T17:00:00.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">มังงะหลากแนว กับสาวหลายแบบ☆ขนกันมาลด 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% ไม่มีขั้นต่ำ กรอกโค้ด R35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 17 ตุลาคม 2569</em></strong></p>"
     }
   ]
 }
