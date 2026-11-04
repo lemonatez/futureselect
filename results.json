@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T11:35:38.076Z",
+  "generatedAt": "2026-11-04T04:52:30.790Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 472,
-  "totalFuture": 10,
+  "knownPages": 474,
+  "totalFuture": 12,
   "results": [
     {
       "id": 741,
@@ -139,13 +139,41 @@
       "url": "https://bookwalker.in.th/select/753/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/753/",
       "campaignStartAt": "2026-11-16T03:00:00.000Z",
-      "campaignEndAt": "2026-11-29T17:00:00.000Z",
+      "campaignEndAt": "2026-11-30T16:59:59.000Z",
       "startAt": "2026-11-02T17:00:00.000Z",
-      "endAt": "2026-11-29T17:00:00.000Z",
+      "endAt": "2026-11-30T16:59:59.000Z",
       "categoryCsv": "manga",
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\">มังงะหลากแนว กับสาวหลายแบบ☆ขนกันมาลด 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% ไม่มีขั้นต่ำ กรอกโค้ด R35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 17 ตุลาคม 2569</em></strong></p>"
+    },
+    {
+      "id": 754,
+      "title": "เติมความสดใสด้วยมังงะไอดอล ลด 35%",
+      "url": "https://bookwalker.in.th/select/754/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/754/",
+      "campaignStartAt": "2026-11-16T03:00:00.000Z",
+      "campaignEndAt": "2026-11-30T16:59:59.000Z",
+      "startAt": "2026-11-03T17:00:00.000Z",
+      "endAt": "2026-11-30T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">รวมมังงะแนวไอดอลที่เต็มเปี่ยมไปด้วยพลังและความน่ารัก ✿<br>พร้อมส่วนลด 35% ไปเลย</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% ไม่มีขั้นต่ำ กรอกโค้ด IDOL35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 17 ตุลาคม 2569</em></strong></p>"
+    },
+    {
+      "id": 755,
+      "title": "ลดฉ่ำสูงสุด 40% อนิเมะฤดูใบไม้ร่วง",
+      "url": "https://bookwalker.in.th/select/755/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/755/",
+      "campaignStartAt": "2026-11-16T03:00:00.000Z",
+      "campaignEndAt": "2026-11-30T16:59:59.000Z",
+      "startAt": "2026-11-03T17:00:00.000Z",
+      "endAt": "2026-11-30T16:59:59.000Z",
+      "categoryCsv": "manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">ใกล้โค้งสุดท้ายของซีซั่นแล้ว กับอนิเมะฤดูใบไม้ร่วง 2026</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 40% กรอกโค้ด FL40</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 20% กรอกโค้ด FL20</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 17 ตุลาคม 2569</em></strong></p>"
     }
   ]
 }
