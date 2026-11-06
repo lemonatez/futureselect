@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T04:52:30.790Z",
+  "generatedAt": "2026-11-06T10:20:49.620Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 474,
-  "totalFuture": 12,
+  "knownPages": 476,
+  "totalFuture": 14,
   "results": [
     {
       "id": 741,
@@ -174,6 +174,34 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\">ใกล้โค้งสุดท้ายของซีซั่นแล้ว กับอนิเมะฤดูใบไม้ร่วง 2026</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 40% กรอกโค้ด FL40</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 20% กรอกโค้ด FL20</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 17 ตุลาคม 2569</em></strong></p>"
+    },
+    {
+      "id": 756,
+      "title": "คืนพอยต์ฉ่ำ 30% กับโปร Black Friday ที่ BOOK☆WALKER ",
+      "url": "https://bookwalker.in.th/select/756/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/756/",
+      "campaignStartAt": "2026-11-27T03:00:00.000Z",
+      "campaignEndAt": "2026-11-29T16:59:59.000Z",
+      "startAt": "2026-11-05T17:00:00.000Z",
+      "endAt": "2026-11-29T16:59:59.000Z",
+      "categoryCsv": "other,manga,light_novel,art_book",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">ฉลองสิ้นเดือนกับโปรคืนพอยต์ 30% ช้อปกันรับเงินเดือนออก ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ซื้ออีบุ๊กเล่มใดก็ได้ รับพอยต์คืนทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พิเศษยิ่งกว่า ซื้อครบ 1,500 บาท รับพอยต์เพิ่ม 150 พอยต์ หลังจบกิจกรรม</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>ยอดสะสมไม่นับรวมรายการอีบุ๊กออกใหม่ ตั้งแต่วันที่ 28 ตุลาคม 2569</em><br>※<em>พอยต์คืนเพิ่ม 150 พอยต์ จะได้รับภายในวันที่ 4 ธันวาคม 2569</em></strong><br><strong>※<em>โปรโมชันพอยต์คืน ไม่สามารถใช้ร่วมกับคูปองส่วนลด</em></strong></p>"
+    },
+    {
+      "id": 757,
+      "title": "คืนพอยต์ฉ่ำ 30% กับโปร Black Friday ที่ BOOK☆WALKER",
+      "url": "https://bookwalker.in.th/select/757/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/757/",
+      "campaignStartAt": "2026-11-27T03:00:00.000Z",
+      "campaignEndAt": "2026-11-29T16:59:59.000Z",
+      "startAt": "2026-11-05T17:00:00.000Z",
+      "endAt": "2026-11-29T16:59:59.000Z",
+      "categoryCsv": "other,manga,light_novel,art_book",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">ฉลองสิ้นเดือนกับโปรคืนพอยต์ 30% ช้อปกันรับเงินเดือนออก ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ซื้ออีบุ๊กเล่มใดก็ได้ รับพอยต์คืนทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พิเศษยิ่งกว่า ซื้อครบ 1,500 บาท รับพอยต์เพิ่ม 150 พอยต์ หลังจบกิจกรรม</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>ยอดสะสมไม่นับรวมรายการอีบุ๊กออกใหม่ ตั้งแต่วันที่ 28 ตุลาคม 2569</em><br>※<em>พอยต์คืนเพิ่ม 150 พอยต์ จะได้รับภายในวันที่ 4 ธันวาคม 2569</em></strong><br><strong>※<em>โปรโมชันพอยต์คืน ไม่สามารถใช้ร่วมกับคูปองส่วนลด</em></strong></p>"
     }
   ]
 }
