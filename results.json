@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-11-07T09:35:46.729Z",
+  "generatedAt": "2026-11-09T08:23:01.547Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 476,
-  "totalFuture": 12,
+  "knownPages": 477,
+  "totalFuture": 14,
   "results": [
+    {
+      "id": 640,
+      "title": "วิบูลย์กิจจัดโปรฯ 'ยกชุด' ลดสูงสุด 20%",
+      "url": "https://bookwalker.in.th/select/640/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/640/",
+      "campaignStartAt": "2026-11-10T03:00:00.000Z",
+      "campaignEndAt": "2026-11-16T16:59:59.000Z",
+      "startAt": "2026-09-15T03:00:00.000Z",
+      "endAt": "2026-11-16T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791773269471_Vibulkij_Sale_Banner 1392x440 (10).png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791773269607_Vibulkij_Sale_Banner 1290x900 (10).png",
+      "description": "<p style=\"margin-left: 0px;\">วิบูลย์กิจจัดโปรฯ 'ยกชุด' ลดสูงสุด 20%<br>สายงบน้อย ไม่ต้องน้อยใจ 'เล่มเดี่ยว' ก็จัดโปรฯ สูงสุด 14%</p><p style=\"margin-left: 0px;\">※เฉพาะเรื่องที่ร่วมรายการเท่านั้น</p>"
+    },
     {
       "id": 748,
       "title": "11.11 ลดกันจัดหนักสูงสุด 30%!!",
@@ -87,13 +101,13 @@
       "startAt": "2026-11-02T17:00:00.000Z",
       "endAt": "2026-11-30T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794191514639_BL_Coupon_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794191514791_BL_Coupon_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">เติมเกกันจนฉ่ำปอด มัดรวมอีบุ๊ก BL จากหลายสำนักพิมพ์ดังมาลดสูงสุด 40%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 40% เมื่อมียอดคำสั่งซื้อขั้นต่ำ 1,000 บาท กรอกโค้ด Y40</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ไม่มีขั้นต่ำ ไม่จำกัดจำนวนส่วนลด กรอกโค้ด Y30</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 2 พฤศจิกายน 2569</em></strong></p>"
     },
     {
       "id": 752,
-      "title": "ลด 35%❤︎ มังงะหนุ่มหล่อบอกต่อด้วย",
+      "title": "ลด 35%❤︎ มังงะหนุ่มหล่อสุดฮอต",
       "url": "https://bookwalker.in.th/select/752/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/752/",
       "campaignStartAt": "2026-11-16T03:00:00.000Z",
@@ -101,8 +115,8 @@
       "startAt": "2026-11-02T17:00:00.000Z",
       "endAt": "2026-11-30T16:59:59.000Z",
       "categoryCsv": "manga,light_novel",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794196965502_Hot_men_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794196965624_Hot_men_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">รวมมังงะที่มีแต่หนุ่มหล่อ แค่ดูภาพก็ฟินแล้ว !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% ไม่มีขั้นต่ำ กรอกโค้ด HOT35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 17 ตุลาคม 2569</em></strong></p>"
     },
     {
@@ -174,6 +188,20 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\">ฉลองสิ้นเดือนกับโปรคืนพอยต์ 30% ช้อปกันรับเงินเดือนออก ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ซื้ออีบุ๊กเล่มใดก็ได้ รับพอยต์คืนทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">พิเศษยิ่งกว่า ซื้อครบ 1,500 บาท รับพอยต์เพิ่ม 150 พอยต์ หลังจบกิจกรรม</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>ยอดสะสมไม่นับรวมรายการอีบุ๊กออกใหม่ ตั้งแต่วันที่ 28 ตุลาคม 2569</em><br>※<em>พอยต์คืนเพิ่ม 150 พอยต์ จะได้รับภายในวันที่ 4 ธันวาคม 2569</em></strong><br><strong>※<em>โปรโมชันพอยต์คืน ไม่สามารถใช้ร่วมกับคูปองส่วนลด</em></strong></p>"
+    },
+    {
+      "id": 758,
+      "title": "อีบุ๊กจาก Animag ลดจัดหนัก 60%*",
+      "url": "https://bookwalker.in.th/select/758/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/758/",
+      "campaignStartAt": "2026-11-27T03:00:00.000Z",
+      "campaignEndAt": "2026-12-10T16:59:59.000Z",
+      "startAt": "2026-11-08T17:00:00.000Z",
+      "endAt": "2026-12-10T16:59:59.000Z",
+      "categoryCsv": "manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">สมาชิกใหม่ BOOK☆WALKER ซื้ออีบุ๊กจากสำนักพิมพ์ Animag<br>ลดเลยสูงสุด 60%*</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด ...</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ...</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 28 ตุลาคม 2569</em></strong></p>"
     }
   ]
 }
