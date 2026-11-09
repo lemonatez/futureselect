@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T08:23:01.547Z",
+  "generatedAt": "2026-11-09T18:59:56.014Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
@@ -17,8 +17,8 @@
       "startAt": "2026-09-15T03:00:00.000Z",
       "endAt": "2026-11-16T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791773269471_Vibulkij_Sale_Banner 1392x440 (10).png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1791773269607_Vibulkij_Sale_Banner 1290x900 (10).png",
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794213872585_Vibulkij_Sale_Banner 1392x440 (11).png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794213872706_Vibulkij_Sale_Banner 1290x900 (11).png",
       "description": "<p style=\"margin-left: 0px;\">วิบูลย์กิจจัดโปรฯ 'ยกชุด' ลดสูงสุด 20%<br>สายงบน้อย ไม่ต้องน้อยใจ 'เล่มเดี่ยว' ก็จัดโปรฯ สูงสุด 14%</p><p style=\"margin-left: 0px;\">※เฉพาะเรื่องที่ร่วมรายการเท่านั้น</p>"
     },
     {
@@ -129,8 +129,8 @@
       "startAt": "2026-11-02T17:00:00.000Z",
       "endAt": "2026-11-30T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794213634243_Ecchi_Banner_1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794213634396_Ecchi_Banner_1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">มังงะหลากแนว กับสาวหลายแบบ☆ขนกันมาลด 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% ไม่มีขั้นต่ำ กรอกโค้ด R35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 17 ตุลาคม 2569</em></strong></p>"
     },
     {
@@ -143,8 +143,8 @@
       "startAt": "2026-11-03T17:00:00.000Z",
       "endAt": "2026-11-30T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794220413620_Idol_Banner_1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794220413774_Idol_Banner_1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">รวมมังงะแนวไอดอลที่เต็มเปี่ยมไปด้วยพลังและความน่ารัก ✿<br>พร้อมส่วนลด 35% ไปเลย</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% ไม่มีขั้นต่ำ กรอกโค้ด IDOL35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 17 ตุลาคม 2569</em></strong></p>"
     },
     {
@@ -201,7 +201,7 @@
       "categoryCsv": "manga,light_novel",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">สมาชิกใหม่ BOOK☆WALKER ซื้ออีบุ๊กจากสำนักพิมพ์ Animag<br>ลดเลยสูงสุด 60%*</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด ...</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ...</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 28 ตุลาคม 2569</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">สมาชิกใหม่ BOOK☆WALKER ซื้ออีบุ๊กจากสำนักพิมพ์ Animag<br>ลดเลยสูงสุด 60%*</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด ANM60NW</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ANM30</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 28 ตุลาคม 2569</em></strong></p>"
     }
   ]
 }
