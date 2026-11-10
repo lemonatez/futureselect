@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-10T09:25:58.534Z",
+  "generatedAt": "2026-11-10T17:13:01.475Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 477,
-  "totalFuture": 11,
+  "knownPages": 478,
+  "totalFuture": 12,
   "results": [
     {
       "id": 743,
@@ -118,6 +118,20 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\">ใกล้โค้งสุดท้ายของซีซั่นแล้ว กับอนิเมะฤดูใบไม้ร่วง 2026</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 40% กรอกโค้ด FL40</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 20% กรอกโค้ด FL20</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 17 ตุลาคม 2569</em></strong></p>"
+    },
+    {
+      "id": 759,
+      "title": "\"บันทึกสังเกตการณ์ควักฮาจุน\" ลดเลย 60%!",
+      "url": "https://bookwalker.in.th/select/759/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/759/",
+      "campaignStartAt": "2026-11-20T03:00:00.000Z",
+      "campaignEndAt": "2026-12-03T16:59:59.000Z",
+      "startAt": "2026-11-09T17:00:00.000Z",
+      "endAt": "2026-12-03T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794305261548_Jamsai_NewUse Banner_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794305261639_Jamsai_NewUse Banner_Banner 1290x900.png",
+      "description": "<p style=\"margin-left: 0px;\"></p>"
     },
     {
       "id": 756,
