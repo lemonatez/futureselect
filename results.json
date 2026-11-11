@@ -1,12 +1,40 @@
 {
-  "generatedAt": "2026-11-10T17:13:01.475Z",
+  "generatedAt": "2026-11-11T09:42:30.970Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 478,
-  "totalFuture": 12,
+  "knownPages": 480,
+  "totalFuture": 14,
   "results": [
+    {
+      "id": 760,
+      "title": "อีบุ๊กจาก Phoenix เล่มใหม่ ลดสูงสุด 30%!",
+      "url": "https://bookwalker.in.th/select/760/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/760/",
+      "campaignStartAt": "2026-11-11T17:00:00.000Z",
+      "campaignEndAt": "2026-11-30T16:59:59.000Z",
+      "startAt": "2026-11-10T17:00:00.000Z",
+      "endAt": "2026-11-30T16:59:59.000Z",
+      "categoryCsv": "manga,light_novel",
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794384377226_Phoenix_New_Banner 1392x440 (4).png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794384377343_Phoenix_New_Banner 1290x900 (3).png",
+      "description": "<p style=\"margin-left: 0px;\">โปรโมชันสำหรับหนังสือออกใหม่จากสำนักพิมพ์ Phoenix NEXT และ Comix NEXT</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มที่ 1 ออกใหม่ ลดทันที 30%</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ (ภาคต่อที่ออกใหม่) ลดทันที 10%</p></li></ul><p style=\"margin-left: 0px;\"><br><strong><em>※เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+    },
+    {
+      "id": 761,
+      "title": "วิบูลย์กิจจัดโปรลดรับ 11.11 ยกชุดลดสูงสุด 20%",
+      "url": "https://bookwalker.in.th/select/761/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/761/",
+      "campaignStartAt": "2026-11-12T03:00:00.000Z",
+      "campaignEndAt": "2026-11-17T16:59:59.000Z",
+      "startAt": "2026-11-10T17:00:00.000Z",
+      "endAt": "2026-11-17T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\"></p>"
+    },
     {
       "id": 743,
       "title": "ยูริสุดหวานเรื่องใหม่จากเฟิร์สจัง ลด 60% สำหรับสมาชิกใหม่!",
@@ -45,8 +73,8 @@
       "startAt": "2026-10-29T17:00:00.000Z",
       "endAt": "2026-11-30T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794363446635_Luckpim_BL NewUse_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794363446744_Luckpim_BL NewUse_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">BL ออกใหม่จากรักพิมพ์ พี่บุ๊กอยากแนะนำจนต้องจัดโปร<br>\"โอตาคุคลั่งรักกับนายโอชิ\" สมาชิกใหม่ลด 60%!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ กรอกโค้ด LPY60NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
@@ -115,8 +143,8 @@
       "startAt": "2026-11-03T17:00:00.000Z",
       "endAt": "2026-11-30T16:59:59.000Z",
       "categoryCsv": "manga,light_novel",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794385901762_Fall_Exist_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794385901877_Fall_Exist_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">ใกล้โค้งสุดท้ายของซีซั่นแล้ว กับอนิเมะฤดูใบไม้ร่วง 2026</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 40% กรอกโค้ด FL40</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 20% กรอกโค้ด FL20</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 17 ตุลาคม 2569</em></strong></p>"
     },
     {
