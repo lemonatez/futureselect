@@ -1,26 +1,12 @@
 {
-  "generatedAt": "2026-11-11T17:40:40.793Z",
+  "generatedAt": "2026-11-12T06:58:26.749Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 480,
-  "totalFuture": 13,
+  "totalFuture": 12,
   "results": [
-    {
-      "id": 761,
-      "title": "วิบูลย์กิจจัดโปรลดรับ 11.11 ยกชุดลดสูงสุด 20%",
-      "url": "https://bookwalker.in.th/select/761/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/761/",
-      "campaignStartAt": "2026-11-12T03:00:00.000Z",
-      "campaignEndAt": "2026-11-17T16:59:59.000Z",
-      "startAt": "2026-11-10T17:00:00.000Z",
-      "endAt": "2026-11-17T16:59:59.000Z",
-      "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794392898346_Vibulkij_Sale_Banner 1392x440 (12).png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794392898442_Vibulkij_Sale_Banner 1290x900 (12).png",
-      "description": "<p style=\"margin-left: 0px;\">วิบูลย์กิจจัดโปรฯ 'ยกชุด' ลดสูงสุด 20%<br>สายงบน้อย ไม่ต้องน้อยใจ 'เล่มเดี่ยว' ก็จัดโปรฯ สูงสุด 14%</p><p style=\"margin-left: 0px;\">※เฉพาะเรื่องที่ร่วมรายการเท่านั้น</p>"
-    },
     {
       "id": 743,
       "title": "ยูริสุดหวานเรื่องใหม่จากเฟิร์สจัง ลด 60% สำหรับสมาชิกใหม่!",
