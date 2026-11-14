@@ -1,40 +1,12 @@
 {
-  "generatedAt": "2026-11-13T10:28:57.839Z",
+  "generatedAt": "2026-11-14T03:27:38.517Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 484,
-  "totalFuture": 16,
+  "totalFuture": 14,
   "results": [
-    {
-      "id": 743,
-      "title": "ยูริสุดหวานเรื่องใหม่จากเฟิร์สจัง ลด 60% สำหรับสมาชิกใหม่!",
-      "url": "https://bookwalker.in.th/select/743/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/743/",
-      "campaignStartAt": "2026-11-14T03:00:00.000Z",
-      "campaignEndAt": "2026-11-26T16:59:59.000Z",
-      "startAt": "2026-10-25T17:00:00.000Z",
-      "endAt": "2026-11-26T16:59:59.000Z",
-      "categoryCsv": "manga,light_novel",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083075640_GL_NewUse_Banner 1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083075746_GL_NewUse_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">\"โดดเรียนมาพักใจที่ห้องพยาบาลสักหน่อยไหมล่ะ?\"</p><p style=\"margin-left: 0px;\">มังงะแนวยูริจาก First Page Pro. ลด 60% สำหรับสมาชิกใหม่</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ กรอกโค้ด YR60NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p><p style=\"margin-left: 0px;\">พร้อมโปรเรื่องอื่น ๆ ลด 35% <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://bookwalker.in.th/select/744/\">คลิก</a></p>"
-    },
-    {
-      "id": 744,
-      "title": "ยูริเรื่องเด็ด พี่บุ๊กคัดมาแล้ว ลด 35%",
-      "url": "https://bookwalker.in.th/select/744/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/744/",
-      "campaignStartAt": "2026-11-14T03:00:00.000Z",
-      "campaignEndAt": "2026-11-26T16:59:59.000Z",
-      "startAt": "2026-10-25T17:00:00.000Z",
-      "endAt": "2026-11-26T16:59:59.000Z",
-      "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083098452_GL_Banner_1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1793083098534_GL_Banner_1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">สาวกทุ่งลิลลี่ห้ามพลาด มังงะยูริที่ร่วมรายการ ลด 35%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 35% ไม่มีขั้นต่ำ กรอกโค้ด YR35</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 15 ตุลาคม 2569</em></strong></p>"
-    },
     {
       "id": 750,
       "title": "ลด 60% \"โอตาคุคลั่งรักกับนายโอชิ\" BL ออกใหม่จากรักพิมพ์",
