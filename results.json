@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T07:36:50.527Z",
+  "generatedAt": "2026-11-16T17:52:48.217Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
@@ -135,7 +135,7 @@
     },
     {
       "id": 767,
-      "title": "ลดสูงสุด 70% กับมังงะฤดูหนาว",
+      "title": "ลดสูงสุด 70% กับอนิเมะฤดูหนาว",
       "url": "https://bookwalker.in.th/select/767/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/767/",
       "campaignStartAt": "2026-12-01T03:00:00.000Z",
@@ -145,7 +145,7 @@
       "categoryCsv": "manga,light_novel",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\"></p>"
+      "description": "<p style=\"margin-left: 0px;\">อนิเมะฤดูหนาวปี 2027 กำลังเดินทางมาถึง!!<br>โปรโมชันสมาชิกใหม่ BOOK☆WALKER ลดสูงสุด 70%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 70% กรอกโค้ด</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 30% กรอกโค้ด</p></li></ul>"
     }
   ]
 }
