@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T08:28:03.257Z",
+  "generatedAt": "2026-11-19T17:34:03.137Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 485,
+  "knownPages": 488,
   "totalFuture": 10,
   "results": [
     {
@@ -19,7 +19,7 @@
       "categoryCsv": "manga",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055697849_'.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055698009_Jamsai_NewUse Banner_Banner 1290x900 copy.png",
-      "description": "<p style=\"margin-left: 0px;\">Comic เล่มแรกจาก everY \"บันทึกสังเกตการณ์ควักฮาจุน\"<br>สมาชิกใหม่ลดเลย 30% ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% กรอกโค้ด JS30NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+      "description": "<p style=\"margin-left: 0px;\">Comic เล่มแรกจาก everY \"บันทึกสังเกตการณ์ควักฮาจุน\"<br>สมาชิกใหม่ลดเลย 30% ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% กรอกโค้ด EY30</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 756,
