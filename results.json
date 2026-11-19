@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T10:06:49.894Z",
+  "generatedAt": "2026-11-19T08:28:03.257Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
@@ -9,7 +9,7 @@
   "results": [
     {
       "id": 759,
-      "title": "\"บันทึกสังเกตการณ์ควักฮาจุน\" ลดเลย 60%!",
+      "title": "\"บันทึกสังเกตการณ์ควักฮาจุน\" ลดเลย 30%!",
       "url": "https://bookwalker.in.th/select/759/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/759/",
       "campaignStartAt": "2026-11-20T03:00:00.000Z",
@@ -17,23 +17,9 @@
       "startAt": "2026-11-09T17:00:00.000Z",
       "endAt": "2026-12-03T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794305261548_Jamsai_NewUse Banner_Banner 1392x440.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1794305261639_Jamsai_NewUse Banner_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">Comic เล่มแรกจาก everY \"บันทึกสังเกตการณ์ควักฮาจุน\"<br>สมาชิกใหม่ลดเลย 60% ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 60% กรอกโค้ด JS60NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
-    },
-    {
-      "id": 762,
-      "title": "ลดเลย 30% กับนิยายวายจาก everY",
-      "url": "https://bookwalker.in.th/select/762/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/762/",
-      "campaignStartAt": "2026-11-20T03:00:00.000Z",
-      "campaignEndAt": "2026-12-03T16:59:59.000Z",
-      "startAt": "2026-11-12T17:00:00.000Z",
-      "endAt": "2026-12-03T16:59:59.000Z",
-      "categoryCsv": "other,light_novel",
-      "imagePc": null,
-      "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">จัดโปรเด็ดสำหรับสายอ่านนิยายจากสำนักพิมพ์ everY<br>กับโปรโมชันลด 30% แบบไม่ต้องกรอกส่วนลด !!</p><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 6 พฤศจิกายน 2569</em></strong></p>"
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055697849_'.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055698009_Jamsai_NewUse Banner_Banner 1290x900 copy.png",
+      "description": "<p style=\"margin-left: 0px;\">Comic เล่มแรกจาก everY \"บันทึกสังเกตการณ์ควักฮาจุน\"<br>สมาชิกใหม่ลดเลย 30% ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% กรอกโค้ด JS30NW</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 756,
@@ -73,8 +59,8 @@
       "startAt": "2026-11-08T17:00:00.000Z",
       "endAt": "2026-12-10T16:59:59.000Z",
       "categoryCsv": "manga,light_novel",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795054594037_Animag_NewUse_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795054594243_Animag_NewUse_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">สมาชิกใหม่ BOOK☆WALKER ซื้ออีบุ๊กจากสำนักพิมพ์ Animag<br>ลดเลยสูงสุด 60%*</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ สูงสุด 300 บาท กรอกโค้ด ANM60NW</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% ขั้นต่ำ 200 บาท กรอกโค้ด ANM30</p></li></ul><p style=\"margin-left: 0px;\"><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 28 ตุลาคม 2569</em></strong></p>"
     },
     {
@@ -87,9 +73,9 @@
       "startAt": "2026-11-12T17:00:00.000Z",
       "endAt": "2026-12-15T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">จัดกันต่อเนื่องกับมังงะติดเรท เอาใจสายเนื้อนม</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 50% สำหรับอีบุ๊ก \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 20% สำหรับอีบุ๊ก \"เล่มถัดไป\"</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 31 ตุลาคม 2569</em></strong></p>"
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055878213_Ero_Banner_1392x440 (1).png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055878308_Ero_Banner_1290x900 (1).png",
+      "description": "<p style=\"margin-left: 0px;\">จัดกันต่อเนื่องกับมังงะติดเรท เอาใจสายเนื้อนม</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 50% สำหรับอีบุ๊ก \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 20% สำหรับอีบุ๊ก \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 31 ตุลาคม 2569</em></strong></p>"
     },
     {
       "id": 764,
@@ -129,8 +115,8 @@
       "startAt": "2026-11-15T17:00:00.000Z",
       "endAt": "2026-12-15T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055935272_TL_30per_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055935359_TL_30per_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">มังงะแนว Teens' Love รักสุดรัอนแรงลดราคา !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% เมื่อกรอกโค้ด ......</p></li></ul>"
     },
     {
@@ -146,6 +132,20 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\">อนิเมะฤดูหนาวปี 2027 กำลังเดินทางมาถึง!!<br>โปรโมชันสมาชิกใหม่ BOOK☆WALKER ลดสูงสุด 70%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 70% กรอกโค้ด</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 30% กรอกโค้ด</p></li></ul>"
+    },
+    {
+      "id": 768,
+      "title": "อีบุ๊กจากอนิเมะดังในตำนาน คืนพอยต์สูงสุด 50%!!!",
+      "url": "https://bookwalker.in.th/select/768/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/768/",
+      "campaignStartAt": "2026-12-01T03:00:00.000Z",
+      "campaignEndAt": "2026-12-15T16:59:59.000Z",
+      "startAt": "2026-11-18T17:00:00.000Z",
+      "endAt": "2026-12-15T16:59:59.000Z",
+      "categoryCsv": "manga,light_novel",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">ขนทั้งมังงะและไลท์โนเวลจากอนิเมะเรื่องดังชวนคิดถึง พร้อมคืนพอยต์สูงสุด 50%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 50% สำหรับอีบุ๊ก \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 20% สำหรับอีบุ๊ก \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 พฤศจิกายน 2569</em></strong></p>"
     }
   ]
 }
