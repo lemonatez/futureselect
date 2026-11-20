@@ -1,26 +1,12 @@
 {
-  "generatedAt": "2026-11-19T17:34:03.137Z",
+  "generatedAt": "2026-11-20T07:37:17.221Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 488,
-  "totalFuture": 10,
+  "totalFuture": 12,
   "results": [
-    {
-      "id": 759,
-      "title": "\"บันทึกสังเกตการณ์ควักฮาจุน\" ลดเลย 30%!",
-      "url": "https://bookwalker.in.th/select/759/",
-      "apiUrl": "https://bookwalker.in.th/api/select-page/759/",
-      "campaignStartAt": "2026-11-20T03:00:00.000Z",
-      "campaignEndAt": "2026-12-03T16:59:59.000Z",
-      "startAt": "2026-11-09T17:00:00.000Z",
-      "endAt": "2026-12-03T16:59:59.000Z",
-      "categoryCsv": "manga",
-      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055697849_'.png",
-      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055698009_Jamsai_NewUse Banner_Banner 1290x900 copy.png",
-      "description": "<p style=\"margin-left: 0px;\">Comic เล่มแรกจาก everY \"บันทึกสังเกตการณ์ควักฮาจุน\"<br>สมาชิกใหม่ลดเลย 30% ♡</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% กรอกโค้ด EY30</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
-    },
     {
       "id": 756,
       "title": "คืนพอยต์ฉ่ำ 30% กับโปร Black Friday ที่ BOOK☆WALKER ",
@@ -103,7 +89,7 @@
       "categoryCsv": "manga",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">รวมอีบุ๊กวายสายหวานเจี๊ยบ<br>ไม่ต้องแซ่บก็ฟินพอกัน❤</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด.........</p></li></ul>"
+      "description": "<p style=\"margin-left: 0px;\">รวมอีบุ๊กวายสายหวานเจี๊ยบ<br>ไม่ต้องแซ่บก็ฟินพอกัน❤</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด BL355H</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 พฤศจิกายน 2569</em></strong></p>"
     },
     {
       "id": 766,
@@ -117,7 +103,7 @@
       "categoryCsv": "manga",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055935272_TL_30per_Banner 1392x440.png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795055935359_TL_30per_Banner 1290x900.png",
-      "description": "<p style=\"margin-left: 0px;\">มังงะแนว Teens' Love รักสุดรัอนแรงลดราคา !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% เมื่อกรอกโค้ด ......</p></li></ul>"
+      "description": "<p style=\"margin-left: 0px;\">มังงะแนว Teens' Love รักสุดร้อนแรงลดราคา !!</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 30% เมื่อกรอกโค้ด TL3086</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
     },
     {
       "id": 767,
@@ -131,7 +117,7 @@
       "categoryCsv": "manga,light_novel",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\">อนิเมะฤดูหนาวปี 2027 กำลังเดินทางมาถึง!!<br>โปรโมชันสมาชิกใหม่ BOOK☆WALKER ลดสูงสุด 70%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 70% กรอกโค้ด</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 30% กรอกโค้ด</p></li></ul>"
+      "description": "<p style=\"margin-left: 0px;\">อนิเมะฤดูหนาวปี 2027 กำลังเดินทางมาถึง!!<br>โปรโมชันสมาชิกใหม่ BOOK☆WALKER ลดสูงสุด 70%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่ม 1 ลดทันที 70% กรอกโค้ด WT70NWX6</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">เล่มต่อ ลดทันที 30% กรอกโค้ด WT30NW43</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 พฤศจิกายน 2569</em></strong></p>"
     },
     {
       "id": 768,
@@ -146,6 +132,48 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\">ขนทั้งมังงะและไลท์โนเวลจากอนิเมะเรื่องดังชวนคิดถึง พร้อมคืนพอยต์สูงสุด 50%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 50% สำหรับอีบุ๊ก \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 20% สำหรับอีบุ๊ก \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 พฤศจิกายน 2569</em></strong></p>"
+    },
+    {
+      "id": 769,
+      "title": "First Page Pro. แจกส่วนลด 70% ให้สมาชิกใหม่ !!",
+      "url": "https://bookwalker.in.th/select/769/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/769/",
+      "campaignStartAt": "2026-12-01T03:00:00.000Z",
+      "campaignEndAt": "2026-12-14T17:00:00.000Z",
+      "startAt": "2026-11-18T17:00:00.000Z",
+      "endAt": "2026-12-14T17:00:00.000Z",
+      "categoryCsv": "manga",
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795082226245_FPP_NewUse_Banner 1392x440 (1).png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795082226418_FPP_NewUse_Banner 1290x900 (1).png",
+      "description": "<p style=\"margin-left: 0px;\">เฟิร์สจังแจกส่วนลด 70% เพื่อสมาชิกใหม่ BOOK☆WALKER</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลดทันที 70% สูงสุด 300 บาท กรอกโค้ด FPP70NWYT</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+    },
+    {
+      "id": 770,
+      "title": "ลด 70% TL รักสุดแซ่บ♡",
+      "url": "https://bookwalker.in.th/select/770/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/770/",
+      "campaignStartAt": "2026-12-01T03:00:00.000Z",
+      "campaignEndAt": "2026-12-14T17:00:00.000Z",
+      "startAt": "2026-11-18T17:00:00.000Z",
+      "endAt": "2026-12-14T17:00:00.000Z",
+      "categoryCsv": "manga",
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795083068283_TL_NewUse_Banner 1392x440 (4).png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795083068391_TL_NewUse_Banner 1290x900 (4).png",
+      "description": "<p style=\"margin-left: 0px;\">แจกส่วนลด 70% สำหรับสมาชิกใหม่กับมังงะแนว Teens' Love</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 70% ไม่มีขั้นต่ำ ลดสูงสุด 300 บาท กรอกโค้ด TL70NWBD</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
+    },
+    {
+      "id": 771,
+      "title": "35% Tragic Romance",
+      "url": "https://bookwalker.in.th/select/771/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/771/",
+      "campaignStartAt": "2026-12-01T03:00:00.000Z",
+      "campaignEndAt": "2026-12-30T17:00:00.000Z",
+      "startAt": "2026-11-18T17:00:00.000Z",
+      "endAt": "2026-12-30T17:00:00.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\"></p>"
     }
   ]
 }
