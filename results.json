@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T07:37:17.221Z",
+  "generatedAt": "2026-11-20T16:40:08.734Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 488,
-  "totalFuture": 12,
+  "knownPages": 489,
+  "totalFuture": 13,
   "results": [
     {
       "id": 756,
@@ -156,7 +156,7 @@
       "campaignEndAt": "2026-12-14T17:00:00.000Z",
       "startAt": "2026-11-18T17:00:00.000Z",
       "endAt": "2026-12-14T17:00:00.000Z",
-      "categoryCsv": "manga",
+      "categoryCsv": "other,manga,light_novel,art_book",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795083068283_TL_NewUse_Banner 1392x440 (4).png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795083068391_TL_NewUse_Banner 1290x900 (4).png",
       "description": "<p style=\"margin-left: 0px;\">แจกส่วนลด 70% สำหรับสมาชิกใหม่กับมังงะแนว Teens' Love</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 70% ไม่มีขั้นต่ำ ลดสูงสุด 300 บาท กรอกโค้ด TL70NWBD</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong></p>"
@@ -174,6 +174,20 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\"></p>"
+    },
+    {
+      "id": 772,
+      "title": "ลด 60% มังงะ \"ได้สกิลทุกครั้งที่ถูกขับไล่ หลังจากผ่านมา 100 โลกก็ได้สกิลสุดโกงในรอบที่ 2\" จาก Luckpim",
+      "url": "https://bookwalker.in.th/select/772/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/772/",
+      "campaignStartAt": "2026-12-04T03:00:00.000Z",
+      "campaignEndAt": "2026-12-17T16:59:59.000Z",
+      "startAt": "2026-11-19T17:00:00.000Z",
+      "endAt": "2026-12-17T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">มังงะออกใหม่สุดสนุกจากรักพิมพ์<br>\"ได้สกิลทุกครั้งที่ถูกขับไล่ หลังจากผ่านมา 100 โลกก็ได้สกิลสุดโกงในรอบที่ 2\" ลดเลย 60% สำหรับสมาชิกใหม่</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ กรอกโค้ด</p></li></ul>"
     }
   ]
 }
