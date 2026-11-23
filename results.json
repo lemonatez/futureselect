@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T16:40:08.734Z",
+  "generatedAt": "2026-11-23T10:18:33.297Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 489,
+  "knownPages": 491,
   "totalFuture": 13,
   "results": [
     {
@@ -73,8 +73,8 @@
       "startAt": "2026-11-12T17:00:00.000Z",
       "endAt": "2026-12-15T16:59:59.000Z",
       "categoryCsv": "manga,light_novel",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795417771668_Winter_Anime_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795417771750_Winter_Anime_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">Winter is coming !!!<br>มังงะดัดแปลงเป็นอนิเมะประจำฤดูหนาวปี 2027 <br>พร้อมโปรคืนพอยต์มาแล้ว !</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 40% สำหรับอีบุ๊ก \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 20% สำหรับอีบุ๊ก \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 พฤศจิกายน 2569</em></strong></p>"
     },
     {
@@ -87,8 +87,8 @@
       "startAt": "2026-11-12T17:00:00.000Z",
       "endAt": "2026-12-15T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795417736912_Soft_BL_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795417737107_Soft_BL_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">รวมอีบุ๊กวายสายหวานเจี๊ยบ<br>ไม่ต้องแซ่บก็ฟินพอกัน❤</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด BL355H</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 พฤศจิกายน 2569</em></strong></p>"
     },
     {
@@ -129,8 +129,8 @@
       "startAt": "2026-11-18T17:00:00.000Z",
       "endAt": "2026-12-15T16:59:59.000Z",
       "categoryCsv": "manga,light_novel",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795422652294_Old_Anime_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795422652464_Old_Anime_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">ขนทั้งมังงะและไลท์โนเวลจากอนิเมะเรื่องดังชวนคิดถึง พร้อมคืนพอยต์สูงสุด 50%</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 50% สำหรับอีบุ๊ก \"เล่ม 1\"</p></li><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">คืนพอยต์ 20% สำหรับอีบุ๊ก \"เล่มต่อ\"</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 พฤศจิกายน 2569</em></strong></p>"
     },
     {
@@ -163,17 +163,17 @@
     },
     {
       "id": 771,
-      "title": "35% Tragic Romance",
+      "title": "ส่วนลด 35% กับมังงะแนว Tragic Romance ชวนเรียกน้ำตา",
       "url": "https://bookwalker.in.th/select/771/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/771/",
       "campaignStartAt": "2026-12-01T03:00:00.000Z",
-      "campaignEndAt": "2026-12-30T17:00:00.000Z",
+      "campaignEndAt": "2026-12-31T16:59:59.000Z",
       "startAt": "2026-11-18T17:00:00.000Z",
-      "endAt": "2026-12-30T17:00:00.000Z",
+      "endAt": "2026-12-31T16:59:59.000Z",
       "categoryCsv": "manga",
       "imagePc": null,
       "imageSp": null,
-      "description": "<p style=\"margin-left: 0px;\"></p>"
+      "description": "<p style=\"margin-left: 0px;\">รวมมังงะโรแมนซ์สุดเศร้า กับรักที่ไม่สมหวัง</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด LV35VJ</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 พฤศจิกายน 2569</em></strong></p>"
     },
     {
       "id": 772,
