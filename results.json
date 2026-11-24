@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T10:18:33.297Z",
+  "generatedAt": "2026-11-24T06:15:14.111Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
-  "knownPages": 491,
-  "totalFuture": 13,
+  "knownPages": 492,
+  "totalFuture": 14,
   "results": [
     {
       "id": 756,
@@ -139,9 +139,9 @@
       "url": "https://bookwalker.in.th/select/769/",
       "apiUrl": "https://bookwalker.in.th/api/select-page/769/",
       "campaignStartAt": "2026-12-01T03:00:00.000Z",
-      "campaignEndAt": "2026-12-14T17:00:00.000Z",
+      "campaignEndAt": "2026-12-15T16:59:59.000Z",
       "startAt": "2026-11-18T17:00:00.000Z",
-      "endAt": "2026-12-14T17:00:00.000Z",
+      "endAt": "2026-12-15T16:59:59.000Z",
       "categoryCsv": "manga",
       "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795082226245_FPP_NewUse_Banner 1392x440 (1).png",
       "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795082226418_FPP_NewUse_Banner 1290x900 (1).png",
@@ -188,6 +188,20 @@
       "imagePc": null,
       "imageSp": null,
       "description": "<p style=\"margin-left: 0px;\">มังงะออกใหม่สุดสนุกจากรักพิมพ์<br>\"ได้สกิลทุกครั้งที่ถูกขับไล่ หลังจากผ่านมา 100 โลกก็ได้สกิลสุดโกงในรอบที่ 2\" ลดเลย 60% สำหรับสมาชิกใหม่</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 60% ไม่มีขั้นต่ำ กรอกโค้ด</p></li></ul>"
+    },
+    {
+      "id": 773,
+      "title": "ลด 30% ยกสำนักพิมพ์ Luckpim",
+      "url": "https://bookwalker.in.th/select/773/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/773/",
+      "campaignStartAt": "2026-12-04T03:00:00.000Z",
+      "campaignEndAt": "2026-12-16T17:00:00.000Z",
+      "startAt": "2026-11-23T17:00:00.000Z",
+      "endAt": "2026-12-16T17:00:00.000Z",
+      "categoryCsv": "other,manga,light_novel,art_book",
+      "imagePc": null,
+      "imageSp": null,
+      "description": "<p style=\"margin-left: 0px;\">จัดคูปองลดยกสำนักพิมพ์ กับ Luckpim🍀<br>ลดเลย 30% ไม่มีขั้นต่ำ</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ส่วนลด 30% กรอกโค้ด ...</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 20 พฤศจิกายน 2569</em></strong></p>"
     }
   ]
 }
