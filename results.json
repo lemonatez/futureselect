@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-11-24T06:15:14.111Z",
+  "generatedAt": "2026-11-24T18:04:58.870Z",
   "scannedRange": {
     "min": 280,
     "max": 1000
   },
   "knownPages": 492,
-  "totalFuture": 14,
+  "totalFuture": 15,
   "results": [
+    {
+      "id": 761,
+      "title": "วิบูลย์กิจจัดโปรลดสิ้นเดือน อีบุ๊กยกชุดลดสูงสุด 15%",
+      "url": "https://bookwalker.in.th/select/761/",
+      "apiUrl": "https://bookwalker.in.th/api/select-page/761/",
+      "campaignStartAt": "2026-11-25T03:00:00.000Z",
+      "campaignEndAt": "2026-12-08T16:59:59.000Z",
+      "startAt": "2026-11-10T17:00:00.000Z",
+      "endAt": "2026-12-08T16:59:59.000Z",
+      "categoryCsv": "manga",
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795513145662_Vibulkij_Sale_Banner 1392x440 (13).png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795513145816_Vibulkij_Sale_Banner 1290x900 (13).png",
+      "description": "<p style=\"margin-left: 0px;\">วิบูลย์กิจจัดโปรฯ 'ยกชุด' ลด 15%<br>สายงบน้อย ไม่ต้องน้อยใจ 'เล่มเดี่ยว' ก็จัดโปรฯ ลดสูงสุด 15%</p><p style=\"margin-left: 0px;\">※เฉพาะเรื่องที่ร่วมรายการเท่านั้น</p>"
+    },
     {
       "id": 756,
       "title": "คืนพอยต์ฉ่ำ 30% กับโปร Black Friday ที่ BOOK☆WALKER ",
@@ -171,8 +185,8 @@
       "startAt": "2026-11-18T17:00:00.000Z",
       "endAt": "2026-12-31T16:59:59.000Z",
       "categoryCsv": "manga",
-      "imagePc": null,
-      "imageSp": null,
+      "imagePc": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795516553692_Tragic_Romance_Banner 1392x440.png",
+      "imageSp": "https://bwth-bucket.s3.ap-northeast-1.amazonaws.com/select-page/1795516553837_Tragic_Romance_Banner 1290x900.png",
       "description": "<p style=\"margin-left: 0px;\">รวมมังงะโรแมนซ์สุดเศร้า กับรักที่ไม่สมหวัง</p><ul><li style=\"margin-left: 0px;\"><p style=\"margin-left: 0px;\">ลด 35% กรอกโค้ด LV35VJ</p></li></ul><p style=\"margin-left: 0px;\"><strong>※<em>เฉพาะอีบุ๊กที่ร่วมรายการ</em></strong><br><strong><em>※ไม่สามารถใช้ได้กับรายการอีบุ๊กที่ออกใหม่ ตั้งแต่วันที่ 1 พฤศจิกายน 2569</em></strong></p>"
     },
     {
